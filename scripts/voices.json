@@ -3,6 +3,11 @@
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/bce3e223-bccf-4185-a1bd-6bd92dc807f0/original/manifest.json"
   },
+  "ACHEN": {
+    "locale": "british-essex",
+    "platform": "naturalReaders",
+    "voice": "Dave"
+  },
   "ALORA": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/7900f94e-7f1e-45c1-8224-4ea01855032d/original/manifest.json"
