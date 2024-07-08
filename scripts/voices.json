@@ -1,0 +1,319 @@
+{
+  "ABELA": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/bce3e223-bccf-4185-a1bd-6bd92dc807f0/original/manifest.json"
+  },
+  "ALORA": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/7900f94e-7f1e-45c1-8224-4ea01855032d/original/manifest.json"
+  },
+  "ALORAJ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/7900f94e-7f1e-45c1-8224-4ea01855032d/original/manifest.json"
+  },
+  "ALORAP": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/7900f94e-7f1e-45c1-8224-4ea01855032d/original/manifest.json"
+  },
+  "ALORAZ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/7900f94e-7f1e-45c1-8224-4ea01855032d/original/manifest.json"
+  },
+  "BARSLIM": {
+    "locale": "british",
+    "platform": "naturalReaders",
+    "voice": "Joseph"
+  },
+  "BRANWE": {
+    "platform": "typecast",
+    "voice": "6687bd6f67b3b411aa2fe25a"
+  },
+  "BRANWJ": {
+    "platform": "typecast",
+    "voice": "6687bd6f67b3b411aa2fe25a"
+  },
+  "BRANWP": {
+    "platform": "typecast",
+    "voice": "6687bd6f67b3b411aa2fe25a"
+  },
+  "BRANWZ": {
+    "platform": "typecast",
+    "voice": "6687bd6f67b3b411aa2fe25a"
+  },
+  "CADDER": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Bruce"
+  },
+  "CAUTER": {
+    "platform": "elevenLabs",
+    "voice": "x0VnFp7QkseTgLdZCiiw"
+  },
+  "DARRYL": {
+    "platform": "elevenLabs",
+    "voice": "E95NigJoVU5BI8HjQeN3"
+  },
+  "DREPPI": {
+    "platform": "elevenLabs",
+    "voice": "pUT9rBL4dkCeuqxqLWVZ"
+  },
+  "DREPPI2": {
+    "platform": "elevenLabs",
+    "voice": "pUT9rBL4dkCeuqxqLWVZ"
+  },
+  "DREPPI3": {
+    "platform": "elevenLabs",
+    "voice": "pUT9rBL4dkCeuqxqLWVZ"
+  },
+  "ENDER": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Jim"
+  },
+  "ENTILL": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Arnold"
+  },
+  "FABER": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Arnold"
+  },
+  "FIREB1": {
+    "platform": "elevenLabs",
+    "voice": "wGhqDI8Uwrgacy0jUo3W"
+  },
+  "FIREBE": {
+    "platform": "elevenLabs",
+    "voice": "wGhqDI8Uwrgacy0jUo3W"
+  },
+  "FTOWBE": {
+    "locale": "en-US",
+    "platform": "naturalReaders",
+    "voice": "Grace"
+  },
+  "GAMES": {
+    "platform": "elevenLabs",
+    "voice": "tVkOo4DLgZb89qB0x4qP"
+  },
+  "GAMES2": {
+    "platform": "elevenLabs",
+    "voice": "tVkOo4DLgZb89qB0x4qP"
+  },
+  "GORION": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/d90a7e83-2d7f-4609-a764-3d9d902bf153/original/manifest.json"
+  },
+  "GORION3": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/d90a7e83-2d7f-4609-a764-3d9d902bf153/original/manifest.json"
+  },
+  "HOUSEN": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Dez"
+  },
+  "HULL": {
+    "platform": "elevenLabs",
+    "voice": "wAGzRVkxKEs8La0lmdrE"
+  },
+  "HULL2": {
+    "platform": "elevenLabs",
+    "voice": "wAGzRVkxKEs8La0lmdrE"
+  },
+  "HULL3": {
+    "platform": "elevenLabs",
+    "voice": "wAGzRVkxKEs8La0lmdrE"
+  },
+  "IMOEN": {
+    "platform": "typecast",
+    "voice": "66879f5a3e1ea58f40f062ff"
+  },
+  "IMOEN2": {
+    "platform": "typecast",
+    "voice": "66879f5a3e1ea58f40f062ff"
+  },
+  "IMOENP": {
+    "platform": "typecast",
+    "voice": "66879f5a3e1ea58f40f062ff"
+  },
+  "IMOENZ": {
+    "platform": "typecast",
+    "voice": "66879f5a3e1ea58f40f062ff"
+  },
+  "INNKE2": {
+    "platform": "elevenLabs",
+    "voice": "NOpBlnGInO9m6vDvFkFC"
+  },
+  "JONDAL": {
+    "platform": "elevenLabs",
+    "voice": "GJ2LH87H8UBouPIwuVg4"
+  },
+  "JONDAL3": {
+    "platform": "elevenLabs",
+    "voice": "GJ2LH87H8UBouPIwuVg4"
+  },
+  "KARAN1": {
+    "platform": "elevenLabs",
+    "voice": "wc4MrBc4JWrRyg8WbEVP"
+  },
+  "KARAN3": {
+    "platform": "elevenLabs",
+    "voice": "wc4MrBc4JWrRyg8WbEVP"
+  },
+  "LEAGGU": {
+    "platform": "elevenLabs",
+    "voice": "RoaeVrsfpV2MsIMUBI2m"
+  },
+  "LIIA": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/d9c0edbd-4272-44cf-b3ce-22967cd72e81/original/manifest.json"
+  },
+  "MALTZ": {
+    "platform": "elevenLabs",
+    "voice": "Dnd9VXpAjEGXiRGBf1O6"
+  },
+  "MONKTU1": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU10": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU11": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU12": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU13": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU14": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU2": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU3": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU4": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU5": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU6": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU7": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU8": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONKTU9": {
+    "platform": "elevenLabs",
+    "voice": "7p1Ofvcwsv7UBPoFNcpI"
+  },
+  "MONTAJ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/3d044e30-0696-45f0-a89b-d1c1e7ba5c6d/original/manifest.json"
+  },
+  "MONTAP": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/3d044e30-0696-45f0-a89b-d1c1e7ba5c6d/original/manifest.json"
+  },
+  "MONTAR": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/3d044e30-0696-45f0-a89b-d1c1e7ba5c6d/original/manifest.json"
+  },
+  "MONTAZ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/3d044e30-0696-45f0-a89b-d1c1e7ba5c6d/original/manifest.json"
+  },
+  "NESSIE": {
+    "platform": "elevenLabs",
+    "voice": "XfNU2rGpBa01ckF309OY"
+  },
+  "NOBL4": {
+    "platform": "elevenLabs",
+    "voice": "oTZFjtqrVPGWjddI9fGK"
+  },
+  "NOBL5": {
+    "platform": "elevenLabs",
+    "voice": "042yRDN3sgsopkNVGQrM"
+  },
+  "NOBL6": {
+    "platform": "elevenLabs",
+    "voice": "RoaeVrsfpV2MsIMUBI2m"
+  },
+  "NOBW4": {
+    "platform": "elevenLabs",
+    "voice": "OYTbf65OHHFELVut7v2H"
+  },
+  "POE": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Patrick"
+  },
+  "READ2": {
+    "platform": "elevenLabs",
+    "voice": "BCoftopnrQ6vuipHvbVj"
+  },
+  "TAMOKO": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/902168d9-c1dd-40d0-b897-a6573ffae459/original/manifest.json"
+  },
+  "VITIAR": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Adam"
+  },
+  "WASLEEP": {
+    "platform": "elevenLabs",
+    "voice": "pVnrL6sighQX7hVz89cp"
+  },
+  "WATCH": {
+    "platform": "elevenLabs",
+    "voice": "pVnrL6sighQX7hVz89cp"
+  },
+  "WATCH2": {
+    "platform": "elevenLabs",
+    "voice": "pVnrL6sighQX7hVz89cp"
+  },
+  "WATCH6": {
+    "platform": "elevenLabs",
+    "voice": "pVnrL6sighQX7hVz89cp"
+  },
+  "WATCH9": {
+    "platform": "elevenLabs",
+    "voice": "pVnrL6sighQX7hVz89cp"
+  },
+  "WINTHR2": {
+    "platform": "elevenLabs",
+    "voice": "NOpBlnGInO9m6vDvFkFC"
+  },
+  "WINTHR3": {
+    "platform": "elevenLabs",
+    "voice": "NOpBlnGInO9m6vDvFkFC"
+  },
+  "ZORL": {
+    "platform": "elevenLabs",
+    "voice": "GcPTBXiuIz3xYDstbCNX"
+  }
+}

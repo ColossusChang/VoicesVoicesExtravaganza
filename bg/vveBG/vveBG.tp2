@@ -1,0 +1,96 @@
+/*
+ * Voices Voices Extravaganza for Baldur's Gate
+ * ColossusChang
+ *
+*/
+
+/* Backup folder */
+BACKUP ~vvehBG/backup~
+
+AUTHOR ~ColossusChang~
+
+/* enable all error messages; nothing suppressed. comment this out for release version */
+MODDER
+
+VERSION ~v1.0~
+
+README ~vveBG/readme.html~
+
+ALWAYS
+	/* EET dialog offset for BGEE/SOD dialogs */
+	ACTION_IF GAME_IS ~eet~ THEN BEGIN
+		OUTER_SET eet_offset = 200000
+		OUTER_SPRINT "eet_var" "_"
+	END ELSE BEGIN
+		OUTER_SET eet_offset = 0
+		OUTER_SPRINT "eet_var" ""
+	END
+END
+
+AUTO_TRA ~vveBG/TRA/%s~
+LANGUAGE ~English~ ~English~ ~vveBG/TRA/english/setup.tra~
+
+BEGIN @1 /* Add Character Sounds for BGEE */
+	REQUIRE_PREDICATE GAME_IS ~bgee eet~ @5 /* You must have Baldur's Gate installed. */
+	REQUIRE_PREDICATE GAME_INCLUDES ~sod~ @5 /* You must have Baldur's Gate installed. */
+
+ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
+	// unvoiced => voiced
+	"11861"=>"20643"
+	"16409"=>"16411"
+	"15425"=>"14743"
+	"16632"=>"14743"
+	"15426"=>"14744"
+	"15452"=>"14744"
+	"16633"=>"14744"
+	"16063"=>"16059"
+	"16699"=>"16059"
+	"16064"=>"16060"
+	"16700"=>"16060"
+	"16701"=>"16061"
+	"16065"=>"16061"
+	"16702"=>"16062"
+	"16066"=>"16062"
+	"16712"=>"239"
+	"14201"=>"14199"
+	"16626"=>"14358"
+	"15423"=>"14358"
+	"16627"=>"14359"
+	"15424"=>"14359"
+	"15447"=>"14359"
+	"16629"=>"5748"
+END
+
+GET_FILE_ARRAY wav_files ~vveBG/WAV~ ~.*\.wav~
+
+// filenames will be like vveBG/WAV/12345.wav
+// what we need is the id, which is the number in the filename
+
+OUTER_SPRINT front "vveBG/WAV/" // What comes before
+OUTER_SET lengthFront=STRING_LENGTH ~%front%~
+
+ACTION_PHP_EACH wav_files AS idx => filename BEGIN
+
+	OUTER_SET lengthAll=STRING_LENGTH ~%filename%~ // Length of the whole filename
+	
+	OUTER_SET length=lengthAll - lengthFront - 4 // Subtract lengthFront and ".wav"
+
+	LAF SUBSTRING
+		INT_VAR start=lengthFront  length=length
+		STR_VAR string= EVAL "%filename%"
+		RET stridx=substring
+	END
+
+	ACTION_IF !(FILE_EXISTS_IN_GAME ~%stridx%.wav~) THEN BEGIN
+		COPY ~vveBG/WAV/%stridx%.wav~ ~override~
+	END
+	OUTER_SET strref = eet_offset + %stridx%
+	ACTION_GET_STRREF ~%strref%~ dialogstring // (%eet_offset% + %stridx%)
+	STRING_SET_EVALUATE ~%strref%~ ~%dialogstring%~ [%stridx%] // (%eet_offset% + %stridx%)
+END
+
+ACTION_PHP_EACH dupeTexts AS unvoiced => voiced BEGIN
+	OUTER_SET strref = eet_offset + %unvoiced%
+	ACTION_GET_STRREF ~%strref%~ dialogstring // (%eet_offset% + %stridx%)
+	STRING_SET_EVALUATE ~%strref%~ ~%dialogstring%~ [%voiced%] // (%eet_offset% + %stridx%)
+END
