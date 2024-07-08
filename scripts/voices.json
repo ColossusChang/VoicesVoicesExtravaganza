@@ -13,6 +13,11 @@
     "platform": "naturalReaders",
     "voice": "Charlotte"
   },
+  "AGNASI": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Gigi"
+  },
   "ALORA": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/7900f94e-7f1e-45c1-8224-4ea01855032d/original/manifest.json"
@@ -286,6 +291,11 @@
     "platform": "naturalReaders",
     "voice": "Patrick"
   },
+  "POGHM10": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Ryan"
+  },
   "POGHM2": {
     "locale": "american",
     "platform": "naturalReaders",
@@ -315,11 +325,6 @@
     "locale": "american",
     "platform": "naturalReaders",
     "voice": "Callum"
-  },
-  "POGHM10": {
-    "locale": "american",
-    "platform": "naturalReaders",
-    "voice": "Ryan"
   },
   "READ2": {
     "platform": "elevenLabs",
