@@ -49,6 +49,11 @@
     "platform": "elevenLabs",
     "voice": "x0VnFp7QkseTgLdZCiiw"
   },
+  "CHARLE": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Paul"
+  },
   "DARRYL": {
     "platform": "elevenLabs",
     "voice": "E95NigJoVU5BI8HjQeN3"
