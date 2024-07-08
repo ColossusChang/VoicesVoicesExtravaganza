@@ -13,7 +13,7 @@ import voiceGetters.playht
 TXT_DIR = "../bg/BGtxt"
 
 wordFixes = {
-    "Gorion": "Grraien",
+    "Gorion": "Grraion",
 }
 
 # These words are commonly spoken by the NPC when hostile,
