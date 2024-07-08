@@ -68,6 +68,7 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	"9108"=>"9111"
 	"9107"=>"9111"
 	"15444"=>"15580"
+	"16623"=>"15580"
 END
 
 GET_FILE_ARRAY wav_files ~vveBG/WAV~ ~.*\.wav~
