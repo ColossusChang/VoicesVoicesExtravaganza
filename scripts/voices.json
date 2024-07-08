@@ -356,6 +356,10 @@
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/902168d9-c1dd-40d0-b897-a6573ffae459/original/manifest.json"
   },
+  "TRANZI": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/b7bbb5d2-280f-43b1-ba4c-366c7defe332/original/manifest.json"
+  },
   "VITIAR": {
     "locale": "american",
     "platform": "naturalReaders",
