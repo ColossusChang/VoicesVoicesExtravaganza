@@ -291,6 +291,11 @@
     "platform": "naturalReaders",
     "voice": "Ryan"
   },
+  "POGHM5": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Ryan"
+  },
   "POGHM10": {
     "locale": "american",
     "platform": "naturalReaders",
