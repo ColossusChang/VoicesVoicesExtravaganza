@@ -301,6 +301,11 @@
     "platform": "naturalReaders",
     "voice": "Ryan"
   },
+  "POGHM9": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Callum"
+  },
   "POGHM10": {
     "locale": "american",
     "platform": "naturalReaders",
