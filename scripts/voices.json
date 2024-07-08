@@ -107,6 +107,10 @@
     "platform": "elevenLabs",
     "voice": "pUT9rBL4dkCeuqxqLWVZ"
   },
+  "DRIZZT": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/29ccc11b-acc5-4222-bc6d-36127363543d/original/manifest.json"
+  },
   "ENDER": {
     "locale": "american",
     "platform": "naturalReaders",
