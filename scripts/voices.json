@@ -35,6 +35,11 @@
     "platform": "naturalReaders",
     "voice": "Dan"
   },
+  "ALATOS": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Sam"
+  },
   "ALORA": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/7900f94e-7f1e-45c1-8224-4ea01855032d/original/manifest.json"
