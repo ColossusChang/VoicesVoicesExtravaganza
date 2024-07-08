@@ -8,6 +8,16 @@
     "platform": "naturalReaders",
     "voice": "Dave"
   },
+  "ADDY": {
+    "locale": "british",
+    "platform": "naturalReaders",
+    "voice": "Charlotte"
+  },
+  "AGNASI": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Gigi"
+  },
   "AJANTI": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/5c00b45e-a68c-46fe-82ea-5f50d33dc0f7/original/manifest.json"
@@ -20,15 +30,10 @@
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/5c00b45e-a68c-46fe-82ea-5f50d33dc0f7/original/manifest.json"
   },
-  "ADDY": {
-    "locale": "british",
+  "ALANBL": {
+    "locale": "spanish",
     "platform": "naturalReaders",
-    "voice": "Charlotte"
-  },
-  "AGNASI": {
-    "locale": "american",
-    "platform": "naturalReaders",
-    "voice": "Gigi"
+    "voice": "Dan"
   },
   "ALORA": {
     "platform": "playHT",
