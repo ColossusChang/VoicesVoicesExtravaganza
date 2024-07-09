@@ -126,11 +126,6 @@
     "platform": "naturalReaders",
     "voice": "Arnold"
   },
-  "NIEMAI": {
-    "locale": "american",
-    "platform": "naturalReaders",
-    "voice": "Clyde"
-  },
   "FIREB1": {
     "platform": "elevenLabs",
     "voice": "wGhqDI8Uwrgacy0jUo3W"
@@ -301,6 +296,11 @@
     "platform": "elevenLabs",
     "voice": "XfNU2rGpBa01ckF309OY"
   },
+  "NIEMAI": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Clyde"
+  },
   "NOBL4": {
     "platform": "elevenLabs",
     "voice": "oTZFjtqrVPGWjddI9fGK"
@@ -360,6 +360,10 @@
   "READ2": {
     "platform": "elevenLabs",
     "voice": "BCoftopnrQ6vuipHvbVj"
+  },
+  "STONE": {
+    "platform": "narakeet",
+    "voice": "Guardbot (Synthetic)"
   },
   "TAMOKO": {
     "platform": "playHT",
