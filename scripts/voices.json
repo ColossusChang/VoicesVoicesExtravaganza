@@ -126,6 +126,11 @@
     "platform": "naturalReaders",
     "voice": "Arnold"
   },
+  "NIEMAI": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Clyde"
+  },
   "FIREB1": {
     "platform": "elevenLabs",
     "voice": "wGhqDI8Uwrgacy0jUo3W"
