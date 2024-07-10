@@ -15,6 +15,18 @@ TXT_DIR = "../bg/BGtxt"
 wordFixes = {
     "Gorion": "Grraion",
     "Xzar": "Zar",
+    "ye": "you",
+    "Ye": "You",
+    "ye're": "you're",
+    "Ye're": "You're",
+    "ye've": "you've",
+    "Ye've": "You've",
+    "ye'll": "you'll",
+    "Ye'll": "You'll",
+    "ye'd": "you'd",
+    "Ye'd": "You'd",
+    "te": "to",
+    "Te": "To",
 }
 
 # These words are commonly spoken by the NPC when hostile,
