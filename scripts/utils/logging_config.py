@@ -61,7 +61,7 @@ def setup_logger():
     # Create file handler
     fileHandler = logging.FileHandler(f'{time.strftime("logs/%Y%m%d_%H%M%S")}.log')
     fileHandler.setLevel(logging.DEBUG)
-    fileHandler.setFormatter(logging.Formatter(CustomFormatter.format))
+    fileHandler.setFormatter((CustomFormatter()))
 
     # Add handlers to the logger
     if not logger.hasHandlers():
