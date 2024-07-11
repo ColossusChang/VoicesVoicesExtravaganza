@@ -16,7 +16,7 @@ def loadDictFromJson(file_path):
     return data
 
 
-voiceIds = loadDictFromJson("voices.json")
+voiceIds = loadDictFromJson("static/voices.json")
 
 
 def getVoiceId(creatureId: str):
