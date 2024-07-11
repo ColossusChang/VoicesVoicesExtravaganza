@@ -48,4 +48,1295 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	"1557"=>"16791"
 	"1558"=>"16792"
 	"1561"=>"16795"
+	// ['BALORA:14544'] => 14404:BALORA
+	// Smile more often, Edwin. It looks good on you.
+	"14544"=>"14404"
+
+	// ['BALORA:14542'] => 14405:BALORA
+	// Well, everyone is basically decent, once you get them to unwrinkle their faces.
+	"14542"=>"14405"
+
+	// ['AMNIS2:8908'] => 8907:AMNIS
+	// I'll box your ears if you step an inch closer!
+	"8908"=>"8907"
+
+	// ['BBRANW:14515', 'BBRANW:14629'] => 14411:BBRANW
+	// Stay well clear of me, you foul speakin' heretic!
+	"14515"=>"14411"
+	"14629"=>"14411"
+
+	// ['BBRANW:14628'] => 14413:BBRANW
+	// May Tempus someday show you the error of your ways.
+	"14628"=>"14413"
+
+	// ['BCORAN:14517'] => 14416:BCORAN
+	// You've been dominating my thoughts recently, Safana. It's distracting my work.
+	"14517"=>"14416"
+
+	// ['BCORAN:14518'] => 14417:BCORAN
+	// If you weren't such a self-serving wench, I... don't think I'd find you half as attractive.
+	"14518"=>"14417"
+
+	// ['BCORAN:14519', 'BCORAN:14520'] => 14418:BCORAN
+	// Admit it Safana, you sometimes find me to your liking.
+	"14519"=>"14418"
+	"14520"=>"14418"
+
+	// ['BDYNAH:14600'] => 14420:BDYNAH
+	// Stand easy, Minsc, thy needs not be so motherly.
+	"14600"=>"14420"
+
+	// ['BDYNAH:14527', 'BDYNAH:14531', 'BDYNAH:14534'] => 14421:BDYNAH
+	// Evil to thy cause? Perhaps. However, those of decent nature know otherwise.
+	"14527"=>"14421"
+	"14531"=>"14421"
+	"14534"=>"14421"
+
+	// ['BDYNAH:14528', 'BDYNAH:14536', 'DYNAHE:8788', 'DYNAHJ:20613'] => 14422:BDYNAH
+	// Any protection would be courtesy, not necessity. My power is no less than thine!
+	"14528"=>"14422"
+	"14536"=>"14422"
+	"8788"=>"14422"
+	"20613"=>"14422"
+
+	// ['BDYNAH:14529'] => 14423:BDYNAH
+	// Thou shalt not question my will once I present thy neck to the othlor!
+	"14529"=>"14423"
+
+	// ['BDYNAH:14522', 'BDYNAH:14523', 'BDYNAH:14532', 'BDYNAH:14537', 'BDYNAH:14540'] => 14425:BDYNAH
+	// I should keep an eye towards Edwin. One can only expect treachery from his kind.
+	"14522"=>"14425"
+	"14523"=>"14425"
+	"14532"=>"14425"
+	"14537"=>"14425"
+	"14540"=>"14425"
+
+	// ['DYNAHJ:16733'] => 13946:DYNAHE
+	// Pay him little mind. Minsc must make his dajemma by seeking adventure, while I must prove my worth to my... sisters in much the same manner. 'Tis an interesting time for the realms, with great things foretold for the Sword Coast. Hopefully we shall all find what we seek.
+	"16733"=>"13946"
+
+	// ['DYNAHJ:16734', 'DYNAHP:16113'] => 14375:DYNAHE
+	// If thou dost no longer desire my companionship, then so be it. I shall not force myself where I am not wanted.
+	"16734"=>"14375"
+	"16113"=>"14375"
+
+	// ['DYNAHJ:16736', 'DYNAHP:16115'] => 16111:DYNAHE
+	// Thou hast proven to be quite a leader. I shall look forward to when we can again call each other comrade.
+	"16736"=>"16111"
+	"16115"=>"16111"
+
+	// ['DYNAHE:6879'] => 644:DYNAHE
+	// I am Dynaheir of Rashemen. 'Tis not a title; 'tis just where I am from. We two are indeed far afield of our home, but 'tis a necessary rite of passage. Minsc must make his dajemma by seeking adventure, while I must prove my worth to my... sisters in much the same manner. 'Tis an interesting time for the realms, with great things foretold for the Sword Coast. 'Tis therefore a likely place to look for what we need. What dost thou seek on this adventurous road? Mayhaps we can all find what we need together?
+	"6879"=>"644"
+
+	// ['DYNAHJ:16744'] => 654:DYNAHE
+	// I shall watch thee as well, though I expect to receive less pleasure from my task than thou from thine.
+	"16744"=>"654"
+
+	// ['DYNAHJ:20614'] => 656:DYNAHE
+	// We are nearly a season's travel from our northern homes, and yet still ye wish to dredge up the old battles? Fanatical fool!
+	"20614"=>"656"
+
+	// ['DYNAHP:16114'] => 16735:DYNAHJ
+	// If thou dost no longer desire my companionship, then so be it. I shall not force myself where I am not wanted. Come Minsc, we will continue on ourselves.
+	"16114"=>"16735"
+
+	// ['DYNAHP:16116'] => 16737:DYNAHJ
+	// Thou hast proven to be quite a leader. I shall look forward to when we can again call each other comrade. Come along Minsc.
+	"16116"=>"16737"
+
+	// ['DYNAHP:16118'] => 16117:DYNAHP
+	// I had hope I would see thee again. Mayhaps we could join once again?
+	"16118"=>"16117"
+
+	// ['BEDWIN:14429', 'BEDWIN:14545'] => 14408:BEDWIN
+	// Her company is refreshing but I am surprised I find it so.
+	"14429"=>"14408"
+	"14545"=>"14408"
+
+	// ['BEDWIN:14524', 'BEDWIN:14530', 'BEDWIN:14533', 'BEDWIN:14538', 'BEDWIN:14541'] => 14424:BEDWIN
+	// This witch deceives you with her lies! I tell you she is evil!
+	"14524"=>"14424"
+	"14530"=>"14424"
+	"14533"=>"14424"
+	"14538"=>"14424"
+	"14541"=>"14424"
+
+	// ['BEDWIN:14525', 'BEDWIN:14535'] => 14426:BEDWIN
+	// There is no protection if you goad me further, witch!
+	"14525"=>"14426"
+	"14535"=>"14426"
+
+	// ['BEDWIN:14526'] => 14427:BEDWIN
+	// Her power is nothing without the will to use it! Step from behind your excuses and let us end this here!
+	"14526"=>"14427"
+
+	// ['BEDWIN:14543'] => 14428:BEDWIN
+	//  'Tis welcome you find no fault with one such as I.
+	"14543"=>"14428"
+
+	// ['EDWINJ:16742', 'EDWINP:15435'] => 15440:EDWIN
+	// You would cast me out as though I were a servant? (They will all pay for their insolence!)
+	"16742"=>"15440"
+	"15435"=>"15440"
+
+	// ['EDWINJ:16743', 'EDWINP:15434'] => 15441:EDWIN
+	// You would have me leave the group? I agree to do so, but only as it serves my purposes for the time being. (I will wait here, but I am not a patient man.)
+	"16743"=>"15441"
+	"15434"=>"15441"
+
+	// ['EDWINJ:10682'] => 630:EDWIN
+	// Why do you stay the killing blow?! Kill her!
+	"10682"=>"630"
+
+	// ['EDWINJ:10683'] => 631:EDWIN
+	// Listen not to the witch's lies! We had a deal!
+	"10683"=>"631"
+
+	// ['EDWINJ:10686'] => 633:EDWIN
+	// Nothing changes with the distance! You are Wychlaran of Rashemen, I am a wizard of Thay! That you are here means I must be as well!
+	"10686"=>"633"
+
+	// ['EDWINJ:10687'] => 634:EDWIN
+	// (I'll not suffer her insults!) Die as you should!
+	"10687"=>"634"
+
+	// ['EDWINJ:16741'] => 635:EDWIN
+	// (Their desires lack vision and originality.) If simple coin be all you wish, perhaps I would rather travel with more "adventurous" adventurers. Take what I have, and remember your choice when it is long since spent.
+	"16741"=>"635"
+
+	// ['EDWINJ:10685'] => 9337:EDWIN
+	// (Her power is nothing without the will to use it!) Step from behind your excuses and let us end this here!
+	"10685"=>"9337"
+
+	// ['BELDOT:14559', 'BELDOT:14560', 'BELDOT:14617'] => 14432:BELDOT
+	// Be silent, Skie, it's not like your opinion is worth anything.
+	"14559"=>"14432"
+	"14560"=>"14432"
+	"14617"=>"14432"
+
+	// ['BELDOT:14546', 'BELDOT:14547', 'BELDOT:14548', 'BELDOT:14610', 'BELDOT:14611'] => 14433:BELDOT
+	// Shar-Teel, your lot in life is to bake cookies and bear children. Now shut up.
+	"14546"=>"14433"
+	"14547"=>"14433"
+	"14548"=>"14433"
+	"14610"=>"14433"
+	"14611"=>"14433"
+
+	// ['BELDOT:14549', 'BELDOT:14550', 'BELDOT:14614', 'BELDOT:14618'] => 14434:BELDOT
+	// Stop your whining, wench.
+	"14549"=>"14434"
+	"14550"=>"14434"
+	"14614"=>"14434"
+	"14618"=>"14434"
+
+	// ['BELDOT:16377'] => 16373:BELDOT
+	// The first duty in life is to be as artificial as possible.
+	"16377"=>"16373"
+
+	// ['BELDOT:16378'] => 16374:BELDOT
+	// Only shallow people don't judge by appearance.
+	"16378"=>"16374"
+
+	// ['BELDOT:16376'] => 16375:BELDOT
+	// There is no good or evil, only the charming and the tedious.
+	"16376"=>"16375"
+
+	// ['ELDOTJ:16761', 'ELDOTP:16164'] => 16160:ELDOTH
+	// I would rather travel alone than spend a second more with you boorish oafs. Goodbye, and good riddance.
+	"16761"=>"16160"
+	"16164"=>"16160"
+
+	// ['ELDOTJ:16764', 'ELDOTP:16166'] => 16162:ELDOTH
+	// It is a pity. Our time together has been thoroughly charming. Perhaps we will meet again?
+	"16764"=>"16162"
+	"16166"=>"16162"
+
+	// ['ELDOTJ:16760'] => 6128:ELDOTH
+	// I'm back! I hope you all missed me dearly.
+	"16760"=>"6128"
+
+	// ['ELDOTP:16762'] => 6129:ELDOTH
+	// Well, as your best friend I can tell you a few things. There's been some economic troubles in Baldur's Gate. There's been a lack of iron, and with the tensions between Amn and Baldur's Gate, this has been causing some concern. A mercantile organization called the Iron Throne has been making some headway within the economic circles of Baldur's Gate.
+	"16762"=>"6129"
+
+	// ['ELDOTJ:16745'] => 875:ELDOTH
+	// Do you remember our agreement? You had agreed to help me kidnap Skie from the estate of Entar Silvershield. Well, I think this is the perfect opportunity. I could take us to the estate right now.
+	"16745"=>"875"
+
+	// ['ELDOTJ:16751'] => 877:ELDOTH
+	// Just follow me.
+	"16751"=>"877"
+
+	// ['ELDOTJ:16752'] => 878:ELDOTH
+	// Aren't you coming?
+	"16752"=>"878"
+
+	// ['ELDOTJ:16753'] => 879:ELDOTH
+	// This is the estate right here. Skie has told me that there is a secret door in the northern section of the wall. I'll find it.
+	"16753"=>"879"
+
+	// ['ELDOTJ:16755'] => 881:ELDOTH
+	// When the word stupidity was introduced to the language, they must have had you in mind. I'm not going to be a part of this group.
+	"16755"=>"881"
+
+	// ['ELDOTJ:16757'] => 883:ELDOTH
+	// Let's get out of this place as soon as possible.
+	"16757"=>"883"
+
+	// ['ELDOTJ:16758'] => 884:ELDOTH
+	// If you won't have Skie, then there's no place for me with you either.
+	"16758"=>"884"
+
+	// ['ELDOTP:16165'] => 16763:ELDOTJ
+	// I would rather travel alone than spend a second more with you boorish oafs. Goodbye, and good riddance. Come along Skie.
+	"16165"=>"16763"
+
+	// ['ELDOTP:16167'] => 16765:ELDOTJ
+	// It is a pity. Our time together has been thoroughly charming. Perhaps we will meet again? Come along Skie.
+	"16167"=>"16765"
+
+	// ['ELDOTP:16169'] => 16168:ELDOTP
+	// I thought you would be crawling back. Don't be ashamed, I am quite used to it. Shall we continue on together?
+	"16169"=>"16168"
+
+	// ['ELDOTP:16171'] => 16170:ELDOTP
+	// I thought as much. Lead on, and wake me whenever we get wherever it is we are going.
+	"16171"=>"16170"
+
+	// ['FALDOP:15430', 'FALDOR:14741'] => 16692:FALDOJ
+	// I have no patience for your weaknesses. If I want action, I guess I'll have to make my own.
+	"15430"=>"16692"
+	"14741"=>"16692"
+
+	// ['FALDOP:15436', 'FALDOP:15471', 'FALDOR:14742'] => 16693:FALDOJ
+	// Very well, but do not forget what I have taught you, friends: Walk with rage against all who threaten the Great Mother.
+	"15436"=>"16693"
+	"15471"=>"16693"
+	"14742"=>"16693"
+
+	// ['FALDOR:6139'] => 16691:FALDOP
+	// I am Faldorn, a member of the Shadow Druids. The Shadow Druids are a sect of druids that believes in the destruction of civilization. I have come to this region of the world to sow disorder among those druid sects that are too weak to share our vision.
+	"6139"=>"16691"
+
+	// ['BGARRI:14552'] => 14440:BGARRI
+	// Perhaps you'd care to hear my music, Skie. It's very different and somewhat better than Eldoth's.
+	"14552"=>"14440"
+
+	// ['BGARRI:14553', 'BGARRI:14554'] => 14444:BGARRI
+	// A girl of beauty is a joy forever.
+	"14553"=>"14444"
+	"14554"=>"14444"
+
+	// ['GARRIJ:16697', 'GARRIP:15774'] => 14735:GARRIC
+	// You're no better than Ms. Silke! It will catch up with you someday, mark my words.
+	"16697"=>"14735"
+	"15774"=>"14735"
+
+	// ['GARRIJ:16698', 'GARRIP:15773'] => 14736:GARRIC
+	// Ah well, I suppose it will give me the opportunity to work on this new ballad I've been thinking of... I bet you'll never guess who the protagonists are!
+	"16698"=>"14736"
+	"15773"=>"14736"
+
+	// ['GARRIC:785'] => 558:GARRIC
+	// I offered them 300 gold, just like you told me.
+	"785"=>"558"
+
+	// ['BJAHEI:14561'] => 14445:BJAHEI
+	// Khalid, my dear, 'twould take a sailor to untie that tongue.
+	"14561"=>"14445"
+
+	// ['BJAHEI:14563'] => 14448:BJAHEI
+	// Do you claim to fight evil while you are diabolic yourself?
+	"14563"=>"14448"
+
+	// ['BJAHEI:16368'] => 16367:BJAHEI
+	// Is grass not made of blades? Do stars not shoot? Nature be well armed, and demands so of her servants!
+	"16368"=>"16367"
+
+	// ['JAHEIP:16097', 'JAHEIR:16093'] => 16687:JAHEIJ
+	// I openly question your judgment, but it is your decision to make. You do show some measure of leadership, and I should be glad to assist you in the future.
+	"16097"=>"16687"
+	"16093"=>"16687"
+
+	// ['JAHEIP:16098', 'JAHEIR:16094'] => 16688:JAHEIJ
+	// I openly question your judgment, but it is your decision to make. You do show some measure of leadership, and I should be glad to assist you in the future. Come Khalid, we must depart for now.
+	"16098"=>"16688"
+	"16094"=>"16688"
+
+	// ['JAHEIP:16099', 'JAHEIR:16095'] => 16689:JAHEIJ
+	// Perhaps it is for the best. I would rather be somewhere else, as you appear to be something of a lost cause. You have some of Gorion's sense, but little of his wisdom.
+	"16099"=>"16689"
+	"16095"=>"16689"
+
+	// ['JAHEIP:16100', 'JAHEIR:16096'] => 16690:JAHEIJ
+	// Perhaps it is for the best. I would rather be somewhere else, as you appear to be something of a lost cause. You have some of Gorion's sense, but little of his wisdom. Come Khalid, there are better places for us than this.
+	"16100"=>"16690"
+	"16096"=>"16690"
+
+	// ['JAHEIP:16102'] => 16101:JAHEIP
+	// You have returned. Perhaps you have discovered some of the wisdom that Gorion tried to impart upon you? Shall we rejoin for the good of all?
+	"16102"=>"16101"
+
+	// ['JAHEIP:16105'] => 16104:JAHEIP
+	// As well it should be. Gorion taught you as best he could, and evidently some of that knowledge has stuck after all.
+	"16105"=>"16104"
+
+	// ['JAHEIR:302'] => 16715:JAHEIR
+	// Indeed? Interesting. In that case I think we should definitely travel as one. You can never be too careful about the dangers of the open road. Wherever they may spring from.
+	"302"=>"16715"
+
+	// ['BKAGAI:14397', 'BKAGAI:14452', 'BKAGAI:14565', 'BKAGAI:14566', 'BKAGAI:14567', 'BKAGAI:14568'] => 14396:BKAGAI
+	// Yeslick, shut your lousy mouth and get out of my face.
+	"14397"=>"14396"
+	"14452"=>"14396"
+	"14565"=>"14396"
+	"14566"=>"14396"
+	"14567"=>"14396"
+	"14568"=>"14396"
+
+	// ['BKAGAI:14569', 'BKAGAI:14570', 'BKAGAI:14640'] => 14450:BKAGAI
+	// You're the stupidest dwarf I've ever met, you're an embarrassment to dwarves everywhere.
+	"14569"=>"14450"
+	"14570"=>"14450"
+	"14640"=>"14450"
+
+	// ['BKAGAI:14636', 'BKAGAI:14637'] => 14451:BKAGAI
+	// Yeslick, your stupid mine is what started all this trouble.
+	"14636"=>"14451"
+	"14637"=>"14451"
+
+	// ['BKAGAI:14634'] => 14453:BKAGAI
+	// You're an imbecile, Yeslick! If you piss me off one more time, I'm gonna rip your head off.
+	"14634"=>"14453"
+
+	// ['KAGAIN:456'] => 16782:KAGAIJ
+	// Well, look what I found. This is the body of Silvershield's son. Guess I'm in a lot of trouble now. With him dead, I'll be a wanted dwarf. From what I've gathered so far, all of you are after them damnable bandits. Well, since my reputation is now mud how 'bout I help you gain revenge on those scumbags?
+	"456"=>"16782"
+
+	// ['KAGAIN:457'] => 16785:KAGAIJ
+	// Stupid chumps, your loss.
+	"457"=>"16785"
+
+	// ['KAGAIN:13751', 'KAGAIP:15798'] => 16787:KAGAIJ
+	// Heh, my reputation's probably calmed down by now anyways. See ya around, ya lumps.
+	"13751"=>"16787"
+	"15798"=>"16787"
+
+	// ['KAGAIN:13752', 'KAGAIP:15799'] => 16788:KAGAIJ
+	// You've got hardy hides, folk. If you ever need a little more dwarven muscle around, you've got it.
+	"13752"=>"16788"
+	"15799"=>"16788"
+
+	// ['KAGAIP:16786'] => 6273:KAGAIN
+	// I don't have friends, so I don't get why you've suddenly come into my life. Well, friends, if I had something to tell ya, I would, but I don't.
+	"16786"=>"6273"
+
+	// ['BKHALI:14562', 'BKHALI:14575', 'BKHALI:14576'] => 14455:BKHALI
+	// P-please, Jaheira, you needn't be so... so... oh...
+	"14562"=>"14455"
+	"14575"=>"14455"
+	"14576"=>"14455"
+
+	// ['BKHALI:14577', 'BKHALI:14578', 'BKHALI:14579'] => 14458:BKHALI
+	// Usually everyone proves themselves, but there is something... disturbing about you.
+	"14577"=>"14458"
+	"14578"=>"14458"
+	"14579"=>"14458"
+
+	// ['BKHALI:14580'] => 14459:BKHALI
+	// I had thought none could be so b-b-beyond the bounds of—of goodness. Certainly you need h-help.
+	"14580"=>"14459"
+
+	// ['KHALIJ:16683', 'KHALIP:16080'] => 16076:KHALID
+	// V-v-very well. Though I doubt G-Gorion would approve of me leaving you, I cannot force my company upon you. These choices are yours to make.
+	"16683"=>"16076"
+	"16080"=>"16076"
+
+	// ['KHALIJ:16684', 'KHALIP:16081'] => 16077:KHALID
+	// V-v-very well. Though I doubt G-Gorion would approve of me leaving you, I cannot force my company upon you. These choices are yours to make. Come Jaheira, we should take our leave for now.
+	"16684"=>"16077"
+	"16081"=>"16077"
+
+	// ['KHALIJ:16685', 'KHALIP:16082'] => 16078:KHALID
+	// I c-cannot say that I have enjoyed our t-time together, but for the sake of Gorion I will not protest your actions further. If there is anything of him within you, you will ultimately turn out all right... though it does seem doubtful at the moment.
+	"16685"=>"16078"
+	"16082"=>"16078"
+
+	// ['KHALIJ:16686', 'KHALIP:16083'] => 16079:KHALID
+	// I c-cannot say that I have enjoyed our t-time together, but for the sake of Gorion I will not protest your actions further. If there is anything of him within you, you will ultimately turn out all right... though it does seem doubtful at the moment. Come Jaheira d-darling. We must leave this one to <PRO_HISHER> chosen path.
+	"16686"=>"16079"
+	"16083"=>"16079"
+
+	// ['KHALIP:16085'] => 16084:KHALIP
+	// I-It would seem our paths were destined to c-cross once more. Perhaps we s-should rejoin and continue on as Gorion would have w-wanted.
+	"16085"=>"16084"
+
+	// ['KHALIP:16088'] => 16087:KHALIP
+	// E-excellent! It shall be as though we were never separated.
+	"16088"=>"16087"
+
+	// ['BKIVAN:14584'] => 14460:BKIVAN
+	// Stay away from me, dark elf.
+	"14584"=>"14460"
+
+	// ['BKIVAN:14585', 'BKIVAN:14586'] => 14461:BKIVAN
+	// How are we to trust one who venerates the Spider Queen?
+	"14585"=>"14461"
+	"14586"=>"14461"
+
+	// ['BKIVAN:14590', 'BKIVAN:14594', 'BKIVAN:14595'] => 14462:BKIVAN
+	// Your evil ways will bring your ruin, dark elf.
+	"14590"=>"14462"
+	"14594"=>"14462"
+	"14595"=>"14462"
+
+	// ['BKIVAN:14596'] => 14463:BKIVAN
+	// Don't make me warn you again, drow. Your next slip will be your last.
+	"14596"=>"14463"
+
+	// ['KIVANP:15813'] => 16636:KIVANJ
+	// It is a good time for us to go our separate ways. Perhaps we shall meet again.
+	"15813"=>"16636"
+
+	// ['BMINSC:14539'] => 14467:BMINSC
+	// Lay a finger on what I protect and forevermore ye will answer nature's call with a hook!
+	"14539"=>"14467"
+
+	// ['BMINSC:14599', 'BMINSC:14601'] => 14468:BMINSC
+	// Stand you not too close! Dynaheir is under my protection!
+	"14599"=>"14468"
+	"14601"=>"14468"
+
+	// ['MINSCP:16130'] => 16126:MINSC
+	// Boo and I were about to leave anyway! I have never seen such behavior in all my days! And you claim to be heroes? Good riddance!
+	"16130"=>"16126"
+
+	// ['MINSCJ:16719', 'MINSCP:16131'] => 16127:MINSC
+	// Boo and I were about to leave anyway! I have never seen such behavior in all my days! And you claim to be heroes? Good riddance! Come Dynaheir, I will not feel good about your safety until we are away from here.
+	"16719"=>"16127"
+	"16131"=>"16127"
+
+	// ['MINSCJ:16720', 'MINSCP:16132'] => 16128:MINSC
+	// I am truly saddened that you wish Minsc and Boo to leave. If you have any need for a stout blade, and an even stouter man to swing it, do not hesitate to call on me.
+	"16720"=>"16128"
+	"16132"=>"16128"
+
+	// ['MINSCJ:16722'] => 4398:MINSC
+	// I fear that where Dynaheir goes, so must I! It must be both of us, or neither.
+	"16722"=>"4398"
+
+	// ['MINSCJ:16717'] => 483:MINSC
+	// You agreed to help in my cause, yet now you break your word by your inaction! I'll have none of it! Feel the wrath of Minsc and Boo!
+	"16717"=>"483"
+
+	// ['MINSCP:16133'] => 16721:MINSCJ
+	// I am truly saddened that you wish Minsc and Boo to leave. If you have any need for a stout blade, and an even stouter man to swing it, do not hesitate to call on me. Let's go, Dynaheir. You are safe with me regardless.
+	"16133"=>"16721"
+
+	// ['MINSCP:16135'] => 16134:MINSCP
+	// I knew you would return! Rejoin with Minsc and Boo, and we shall once more charge headlong into adventure and glory!
+	"16135"=>"16134"
+
+	// ['BMONTA:14581'] => 14473:BMONTA
+	// Do not make light of me! My purpose is greater than you can imagine!
+	"14581"=>"14473"
+
+	// ['BOYBA3:8832'] => 8825:BOYBA1
+	// Can I have a lollipop?
+	"8832"=>"8825"
+
+	// ['BOYBA2:8945', 'BOYBA3:8946'] => 8944:BOYBA1
+	// Leave me alone! You're mean!
+	"8945"=>"8944"
+	"8946"=>"8944"
+
+	// ['BOYBE2:8948'] => 8947:BOYBE1
+	// Leave me alone! You're mean!
+	"8948"=>"8947"
+
+	// ['BQUAYL:14602', 'BQUAYL:14603', 'BQUAYL:14604', 'BQUAYL:14621', 'BQUAYL:14622'] => 14475:BQUAYL
+	// Ruler of the world, hmm? Only if chosen by virtue of an uncluttered mind.
+	"14602"=>"14475"
+	"14603"=>"14475"
+	"14604"=>"14475"
+	"14621"=>"14475"
+	"14622"=>"14475"
+
+	// ['QUAYLJ:16640', 'QUAYLP:15850'] => 14745:QUAYLE
+	// Hmph! You are superfluous to my well-being and I can't say I'll miss being confronted with your orcish face and troll-like breath each morning! Good riddance to stupid rubbish!
+	"16640"=>"14745"
+	"15850"=>"14745"
+
+	// ['QUAYLJ:16641', 'QUAYLP:15849'] => 14746:QUAYLE
+	// Please don't leave me out here! Do you hear buzzards? I hear buzzards.
+	"16641"=>"14746"
+	"15849"=>"14746"
+
+	// ['BSAFAN:14521'] => 14484:BSAFAN
+	// I might find you attractive, Coran, if you weren't so irritating.
+	"14521"=>"14484"
+
+	// ['SAFANP:15871'] => 14739:SAFANA
+	// Hmm, it seems that northern men are as mindless as they are impotent. Leave as you wish, I have my own agenda.
+	"15871"=>"14739"
+
+	// ['SAFANJ:16653', 'SAFANP:15870'] => 14740:SAFANA
+	// Can I not stay with you, even a little longer? Our time together has been... quite enjoyable. Ah well, perhaps we shall meet again.
+	"16653"=>"14740"
+	"15870"=>"14740"
+
+	// ['SAFANJ:16771'] => 594:SAFANA
+	// What's taking you so long? Remember, we have an agreement.
+	"16771"=>"594"
+
+	// ['SAFANJ:16776'] => 599:SAFANA
+	// If that's the way you want to be, then I guess this is goodbye.
+	"16776"=>"599"
+
+	// ['BSHART:14551', 'BSHART:14613'] => 14485:BSHART
+	// Say another word, Eldoth, and I'll cut out your tongue.
+	"14551"=>"14485"
+	"14613"=>"14485"
+
+	// ['BSHART:14606', 'BSHART:14607', 'BSHART:14608', 'BSHART:14609'] => 14486:BSHART
+	// Your impudence will one day get you killed, Eldoth.
+	"14606"=>"14486"
+	"14607"=>"14486"
+	"14608"=>"14486"
+	"14609"=>"14486"
+
+	// ['BSHART:14612'] => 14487:BSHART
+	// Eldoth, you're an impotent, degenerate lout who has delusions of male superiority.
+	"14612"=>"14487"
+
+	// ['BSHART:16362'] => 16359:BSHART
+	// Sometimes, the smell of a man makes me sick to my stomach.
+	"16362"=>"16359"
+
+	// ['SHARTJ:16780', 'SHARTP:15857'] => 13754:SHARTE
+	// Ah, I'm finally released from this infernal duty! I swear by every god in a million pantheons that I will NEVER lose a duel to another overly masculine thug in my life.
+	"16780"=>"13754"
+	"15857"=>"13754"
+
+	// ['SHARTJ:16781', 'SHARTP:15856'] => 13755:SHARTE
+	// Damn it, you lose one well-fought duel to an oafish lout of a man and you get attached. I almost hate to say it but you've earned my respect.
+	"16781"=>"13755"
+	"15856"=>"13755"
+
+	// ['SHARTJ:16778'] => 2147:SHARTE
+	// Why are you doing this, Angelo?
+	"16778"=>"2147"
+
+	// ['BSKIE:14615', 'BSKIE:14616'] => 14490:BSKIE
+	// Eldoth, why do you treat our companions so badly?
+	"14615"=>"14490"
+	"14616"=>"14490"
+
+	// ['BSKIE:14555', 'BSKIE:14556', 'BSKIE:14557', 'BSKIE:14558'] => 14493:BSKIE
+	// I'd love to hear your music, Garrick.
+	"14555"=>"14493"
+	"14556"=>"14493"
+	"14557"=>"14493"
+	"14558"=>"14493"
+
+	// ['SKIEJ:16767', 'SKIEP:16147'] => 16143:SKIE
+	// You... you don't want me anymore? But... but where will I go? Oh, this hasn't worked out like I'd hoped at all. You'll come back for me... right?
+	"16767"=>"16143"
+	"16147"=>"16143"
+
+	// ['SKIEJ:16768', 'SKIEP:16148'] => 16144:SKIE
+	// You... you don't want me anymore? But... but where will I go? Oh, this hasn't worked out like I'd hoped at all. You'll come back for me... right? Eldoth, you'll stay with me, won't you? Please?
+	"16768"=>"16144"
+	"16148"=>"16144"
+
+	// ['SKIEJ:16769', 'SKIEP:16149'] => 16145:SKIE
+	// Fine! I was going to leave soon anyway! You're really not the kind of people I should be traveling with.
+	"16769"=>"16145"
+	"16149"=>"16145"
+
+	// ['SKIEJ:16770', 'SKIEP:16150'] => 16146:SKIE
+	// Fine! I was going to leave soon anyway! You're really not the kind of people I should be traveling with. Eldoth is better company than you anyway.
+	"16770"=>"16146"
+	"16150"=>"16146"
+
+	// ['SKIEP:16766'] => 6396:SKIE
+	// My father never let me out much. I don't think there is anything I could tell you that would help you.
+	"16766"=>"6396"
+
+	// ['SKIEP:16152'] => 16151:SKIEP
+	// Thank goodness you've returned! It's just not safe for us to travel separately. Please, can we rejoin?
+	"16152"=>"16151"
+
+	// ['SKIEP:16155'] => 16154:SKIEP
+	// Thank you so much! I was so scared. This is nothing like life in the city.
+	"16155"=>"16154"
+
+	// ['BTIAX:14619', 'BTIAX:14620'] => 14495:BTIAX
+	// Where will your learning get you when Tiax rules? Duke of manure at best!
+	"14619"=>"14495"
+	"14620"=>"14495"
+
+	// ['BTIAX:14605'] => 14496:BTIAX
+	// Sure you be smart, but none are grander than Tiax!
+	"14605"=>"14496"
+
+	// ['BTIAX:14623', 'BTIAX:14630'] => 14497:BTIAX
+	// Thou wouldst mock me? Ye stiff-rumped foole!
+	"14623"=>"14497"
+	"14630"=>"14497"
+
+	// ['BTIAX:14624', 'BTIAX:14625', 'BTIAX:14626', 'BTIAX:14627'] => 14498:BTIAX
+	// All the world will tremble beneath the feet of Tiax!
+	"14624"=>"14498"
+	"14625"=>"14498"
+	"14626"=>"14498"
+	"14627"=>"14498"
+
+	// ['TIAXD:3366'] => 14499:BTIAX
+	// Tiax and his greatness shall squash you as a bug, you... you... insolent BUG!
+	"3366"=>"14499"
+
+	// ['BTIAX:16370'] => 16369:BTIAX
+	// Tiax WILL rule ALL!
+	"16370"=>"16369"
+
+	// ['BTIAX:16372'] => 16371:BTIAX
+	// Tiax does as ye will, but one day... BOOM! He rules!
+	"16372"=>"16371"
+
+	// ['TIAXJ:16682', 'TIAXP:15899'] => 14148:TIAX
+	// Yes, yes, the all-seeing Tiax thinks that his leaving would be best. He must finalize his stratagems and consult in secret with Cyric. You shall, of course, meet the Great Tiax again, at which point I will make my grand ascension and appoint you to your rightful place as whipper of the slaves and faithless.
+	"16682"=>"14148"
+	"15899"=>"14148"
+
+	// ['TIAXJ:16681', 'TIAXP:15900'] => 14749:TIAX
+	// What?! You galley-whipped short-knickers! Tiax the Grand will not stand to be cast aside! He shall ascend without your bumbling sneakery! The Great Tiax, betrayed on all sides by those seeking to undermine his coming rule, casts aside the refuse he once called his slaves! Mindless fools! Breathe deep and fill your ill-fated lungs with the salty airs of your sorry destiny!
+	"16681"=>"14749"
+	"15900"=>"14749"
+
+	// ['TIAXP:16654'] => 6417:TIAX
+	// Tiax is destined to lead, though he grows to enjoy your company. Perhaps you shall be spared his wrath, and appointed to more than sewage detail.
+	"16654"=>"6417"
+
+	// ['BVICON:14591', 'BVICON:14592', 'BVICON:14593'] => 14500:BVICON
+	// Greetings, darthiir. I know that you look upon me as an enemy, but perhaps we could ignore our differences.
+	"14591"=>"14500"
+	"14592"=>"14500"
+	"14593"=>"14500"
+
+	// ['BVICON:14587'] => 14501:BVICON
+	// Iblith! If that is how you want things, then so be it.
+	"14587"=>"14501"
+
+	// ['BVICON:14588', 'BVICON:14589'] => 14502:BVICON
+	// I worship Lolth no longer.
+	"14588"=>"14502"
+	"14589"=>"14502"
+
+	// ['BVICON:14598'] => 14503:BVICON
+	// Don't threaten me, Kivan, it shall only lead to your death.
+	"14598"=>"14503"
+
+	// ['VICONJ:16651', 'VICONP:15863'] => 13756:VICONI
+	// You have been very kind to me in this strange and lighted world. Perhaps you are right, though. The drow were meant to be a race apart... Take care of yourselves, all right?
+	"16651"=>"13756"
+	"15863"=>"13756"
+
+	// ['VICONJ:16650', 'VICONP:15864'] => 3223:VICONI
+	// A welcome release. Your weakling surface ways have left a bitter taste in my mouth. Perhaps I should seek shelter back under the cover of the earth. I understood my fellows there.
+	"16650"=>"3223"
+	"15864"=>"3223"
+
+	// ['VICONP:16644'] => 6425:VICONI
+	// I come from the city of Menzoberranzan. My family was slaughtered, and I was forced to flee to the surface. When I reached the realms of light, the traitor Lolth abandoned me. I would have been lost had it not been for the divine Shar! She took me in and gave me the will and strength to survive! It makes me so happy that I have found friends such as you to make my acclimation to the surface a little easier.
+	"16644"=>"6425"
+
+	// ['XANJ:16679', 'XANP:15907'] => 14747:XAN
+	// This whole mission has been a dismal failure from the very start. Consider my debt repaid, friends, as I certainly do.
+	"16679"=>"14747"
+	"15907"=>"14747"
+
+	// ['XANJ:16680', 'XANP:15906'] => 14748:XAN
+	// While my stay with you was admittedly fruitless, it has, at least, been fun. I might even enjoy sharing another ill-fated adventure with you, should you ever require the use of my considerable talents.
+	"16680"=>"14748"
+	"15906"=>"14748"
+
+	// ['XANP:16678'] => 6434:XAN
+	// If you are interested, friend, I am a Greycloak from Evereska. It is my duty to watch over the political events of the human nations along our borders. From what I have learned so far, there is some sort of mercantile organization known as the Iron Throne that has been trying to cause turmoil along the Sword Coast. To what end, I could not tell you, as I was captured before learning any more.
+	"16678"=>"6434"
+
+	// ['BXZAR:14507'] => 14391:BXZAR
+	// Oh, come on, Montaron, lighten up. Must you be so moody all the time?
+	"14507"=>"14391"
+
+	// ['BXZAR:14564', 'BXZAR:14582', 'BXZAR:14583'] => 14508:BXZAR
+	// Why must you goad us into other people's concerns? Can you not just let us mind our own enterprise?
+	"14564"=>"14508"
+	"14582"=>"14508"
+	"14583"=>"14508"
+
+	// ['XZARJ:16709', 'XZARP:16048'] => 16044:XZAR
+	// Indeed, it is quite about time that we should part company. You have proven unsympathetic to my interests, and I look forward to eventually owning a charming little ashtray made from your skull. Toodles.
+	"16709"=>"16044"
+	"16048"=>"16044"
+
+	// ['XZARJ:16710', 'XZARP:16049'] => 16045:XZAR
+	// Indeed, it is quite about time that we should part company. You have proven unsympathetic to my interests, and I look forward to eventually owning a charming little ashtray made from your skull. Come, Montaron. We shall not be separated by this fool.
+	"16710"=>"16045"
+	"16049"=>"16045"
+
+	// ['XZARJ:16703'] => 225:XZAR
+	// I've no wish to strain our relationship, but you did promise to go to Nashkel. Our delay is making me rather... tense. I'm not nice when I'm tense.
+	"16703"=>"225"
+
+	// ['XZARJ:16704'] => 226:XZAR
+	// Much as I truly care about your needs, I would prefer that we forgot your petty travels and went to Nashkel!
+	"16704"=>"226"
+
+	// ['XZARJ:16705'] => 228:XZAR
+	// You said we would go to Nashkel! You did! I don't wanna be your friend no more! Wahhhhhh!
+	"16705"=>"228"
+
+	// ['XZARP:16707'] => 6435:XZAR
+	// Well, my good friends, perhaps you'd like to know a little more about me? I'm part of an order known as the Zhentarim. We've been sent to learn why the Zhentish name has been slandered along the Coast Way. It would seem that someone has been trying to make our order look bad.
+	"16707"=>"6435"
+
+	// ['XZARP:16046'] => 16706:XZARJ
+	// You... you're letting me go? But we have shared so much... so many good times... this is truly a sad day indeed. Goodbye, so sad, blah blah blah and all that rot.
+	"16046"=>"16706"
+
+	// ['XZARP:16047'] => 16708:XZARJ
+	// You... you're letting me go? But we have shared so much... so many good times... this is truly a sad day indeed. Goodbye, so sad, blah blah blah and all that rot. Come along Montaron. You are my counterpart and we shall not be separated.
+	"16047"=>"16708"
+
+	// ['XZARP:16056'] => 16053:XZARP
+	// Hurrah! I'd have us all sing with joy, but I'm sure such an outpouring would come dangerously close to making me sick. Onward, and all that.
+	"16056"=>"16053"
+
+	// ['BYESLI:14198', 'BYESLI:14511', 'BYESLI:14571'] => 14197:BYESLI
+	//  'Twould be good if you tithed a few coins now and then. The favor of gods is worth a few gold.
+	"14198"=>"14197"
+	"14511"=>"14197"
+	"14571"=>"14197"
+
+	// ['BYESLI:14638', 'BYESLI:14639'] => 14510:BYESLI
+	// The mines were there for anyone who looked! I'll not be blamed for what the Throne does with 'em!
+	"14638"=>"14510"
+	"14639"=>"14510"
+
+	// ['BYESLI:14573', 'BYESLI:14574', 'BYESLI:14641'] => 14512:BYESLI
+	// You've sold your mores for the love of gold. All dwarves are kin, but I'll not call YOU family.
+	"14573"=>"14512"
+	"14574"=>"14512"
+	"14641"=>"14512"
+
+	// ['BYESLI:14572', 'BYESLI:14632', 'BYESLI:14633', 'BYESLI:14635'] => 14513:BYESLI
+	// Friendships last when gold is long gone. Perhaps you should be a little nicer to the group.
+	"14572"=>"14513"
+	"14632"=>"14513"
+	"14633"=>"14513"
+	"14635"=>"14513"
+
+	// ['BYESLI:16364'] => 16363:BYESLI
+	// Ya load sixteen tons, what do ya get? Another day older and deeper in debt.
+	"16364"=>"16363"
+
+	// ['BYESLI:16366'] => 16365:BYESLI
+	// My father was a miner. And my mother was a miner before him.
+	"16366"=>"16365"
+
+	// ['YESLIJ:16695', 'YESLIP:15428'] => 14649:YESLIC
+	// Fine, I'll be leaving the likes of you, then. This party's been just another prison for me.
+	"16695"=>"14649"
+	"15428"=>"14649"
+
+	// ['YESLIJ:16696', 'YESLIP:15427'] => 14651:YESLIC
+	// You've been good to me, friends. Bust some heads, will you?
+	"16696"=>"14651"
+	"15427"=>"14651"
+
+	// ['DELAINY1:22526'] => 22331:DELAINY1
+	// We belong. There is little more to it. If you were to stay, you would have to belong as well. We are a people that lives here as one. You are an outsider, as are the beasts. They are more obvious, but I think you are alike some ways. We have evil among our number alike, but we are respecting.
+	"22526"=>"22331"
+
+	// ['DELTAN2:16993'] => 6127:DELTAN
+	// What are you still doing here? You have much to do, hurry!
+	"16993"=>"6127"
+
+	// ['DORNJ:30527'] => 30525:DORNJ
+	// Die, simpleton!
+	"30527"=>"30525"
+
+	// ['DRUIDC:6124'] => 6125:DRUID2
+	// I am a druid of the Cloakwood forest. My superior is the druid Seniyad. All I can tell you is that there is a human fort that was recently constructed in the northeastern section of the forest.
+	"6124"=>"6125"
+
+	// ['DRUIDC:8979'] => 8980:DRUID2
+	// Get out of my sight! I'll do nothing for you!
+	"8979"=>"8980"
+
+	// ['DURLYLE1:22580'] => 22471:DURLYLE1
+	// We belong. There is little more to it. If you were to stay, you would have to belong as well. We are a people that lives here as one. You are an outsider, as are the beasts. They are more obvious, but I think you are alike some ways. We have evil among our number alike, but we are respecting.
+	"22580"=>"22471"
+
+	// ['DURLYLE1:22585'] => 22475:DURLYLE1
+	// Balduran?! The explorer who shipped and collected, who would rather scuttle than free. The elders did not see his fate. None wished or cared. He can live among the beast for all that we care. We are better than they and he.
+	"22585"=>"22475"
+
+	// ['DURLYLE1:22590'] => 22479:DURLYLE1
+	// None are alive to tell. Ages have gone and the dead lay asleep. Tales are of no real truth, only symbols. We were bound, then we freed. Others fought, but we live to grow. Beyond that is future, and none know that.
+	"22590"=>"22479"
+
+	// ['FAMIL1:32451'] => 32449:FAMIL1
+	// Your familiar's tail coils protectively around your neck. "We enter dangerous territory, my <PRO_LADYLORD>. If we are to leave it safely, we must take care."
+	"32451"=>"32449"
+
+	// ['FAMIL3:31595'] => 31594:FAMIL3
+	// The familiar eyes your pack for a moment and then reluctantly crawls inside. "Very well. It is better that you carry me. Do not bump me around so much this time, however."
+	"31595"=>"31594"
+
+	// ['FARM4:6143', 'FARM5:6145', 'FARMBE:6147', 'FARMBR:6146'] => 6140:FARM2
+	// I'm just a simple farmer, I don't know much.
+	"6143"=>"6140"
+	"6145"=>"6140"
+	"6147"=>"6140"
+	"6146"=>"6140"
+
+	// ['FARM3:8985', 'FARM4:8986', 'FARM5:8987', 'FARMBE:8989'] => 8984:FARM2
+	// Get out of my sight! I'll do nothing for you!
+	"8985"=>"8984"
+	"8986"=>"8984"
+	"8987"=>"8984"
+	"8989"=>"8984"
+
+	// ['FCOOK3:8992'] => 8991:FCOOK2
+	// Get out or be thrown out!
+	"8992"=>"8991"
+
+	// ['FLAM11:9009', 'FLAM4:9011', 'FLAM5:9012', 'FLAM6:9016', 'FLAM7:9008', 'FLAM8:9013', 'FLAM9:9014', 'FLAMBG:9005', 'FLAMEN:9015', 'FLAMGG:9006'] => 9007:FLAM10
+	// You're not welcome here!
+	"9009"=>"9007"
+	"9011"=>"9007"
+	"9012"=>"9007"
+	"9016"=>"9007"
+	"9008"=>"9007"
+	"9013"=>"9007"
+	"9014"=>"9007"
+	"9005"=>"9007"
+	"9015"=>"9007"
+	"9006"=>"9007"
+
+	// ['FLAM5:6936', 'FLAM9:9340', 'FLAMBG:6928', 'FLAMGG:6930'] => 6935:FLAM4
+	// I am a proud member of the Flaming Fist. Our headquarters is in Baldur's Gate, though we also operate in Beregost and the Friendly Arm Inn. We are quite concerned about the sudden rarity of iron. Many think that the nation of Amn is gearing up for war against our great city. If this were the case, I don't know how well we would do, lacking a resource as important as iron.
+	"6936"=>"6935"
+	"9340"=>"6935"
+	"6928"=>"6935"
+	"6930"=>"6935"
+
+	// ['FLAMEN:7275'] => 10633:FLAMEN
+	// You there! Stop where you are, thieves! You are under arrest for robbery. I represent the Flaming Fist and the law of the Grand Dukes.
+	"7275"=>"10633"
+
+	// ['FTOBE5:9063', 'FTOBE6:9062'] => 9064:FTOBE4
+	// Get away from me!
+	"9063"=>"9064"
+	"9062"=>"9064"
+
+	// ['FTOBE8:9060', 'FTOBE9:9059'] => 9061:FTOBE7
+	// You're not welcome here!
+	"9060"=>"9061"
+	"9059"=>"9061"
+
+	// ['OBE:10753', 'OBE:10758', 'OBE:10762', 'OBE:10768'] => 10748:OBE
+	// Have you had enough yet? If you're ready to go, I'll teleport you back outside, otherwise you better be ready for some more fighting.
+	"10753"=>"10748"
+	"10758"=>"10748"
+	"10762"=>"10748"
+	"10768"=>"10748"
+
+	// ['FTOWB5:8813', 'FTOWB6:8817', 'FTOWB7:8821'] => 8810:FTOWB4
+	// I wish I was up to making a fine supper for the lot of you, but I've only enough for my family. Perhaps you'd stay and enjoy the comforts of my humble home? It seems to me though, that you're not the type to have time for rest. I wish you the best.
+	"8813"=>"8810"
+	"8817"=>"8810"
+	"8821"=>"8810"
+
+	// ['FTOWB5:8995', 'FTOWB6:8996', 'FTOWB7:8997'] => 8994:FTOWB4
+	// I'll not speak a word after what you did!
+	"8995"=>"8994"
+	"8996"=>"8994"
+	"8997"=>"8994"
+
+	// ['FTOWBEZ:17753'] => 15962:FTOWBE
+	// I've merchant relatives that routinely make the trip along the Coast Way road. They have said that the route they travel is normally bustling. Surely this could be a veritable floodgate of iron if the need were great.
+	"17753"=>"15962"
+
+	// ['FTOWNA:6611'] => 6612:FTOWN2
+	// I'm just a naive girl. I don't know hardly anything.
+	"6611"=>"6612"
+
+	// ['FTOWN3:9000', 'FTOWN4:9001', 'FTOWNA:8998'] => 9179:FTOWN2
+	// I'll not speak a word after what you did!
+	"9000"=>"9179"
+	"9001"=>"9179"
+	"8998"=>"9179"
+
+	// ['GAMES3:19408'] => 19305:GAMES3
+	// The game is roulette in its simplest form. You pick your number and you take your chances. One will get you thirty-six on a winning spin.
+	"19408"=>"19305"
+
+	// ['GAMES4:19442'] => 19319:GAMES4
+	// Roll up and take a chance on the big wheel. One will get you twenty on a winning spin.
+	"19442"=>"19319"
+
+	// ['GAMES5:19444'] => 19330:GAMES5
+	// A toss of the bones to make your fortune. Double your money on a winning roll.
+	"19444"=>"19330"
+
+	// ['GATEWA2:16805'] => 113:GATEWA
+	// It is good to see you again. The libraries are yours to use for the duration of your stay. Let me show you to your hostel room.
+	"16805"=>"113"
+
+	// ['GIRBA2:9024', 'GIRBA3:9025'] => 9023:GIRBA1
+	// Leave me alone! You're mean!
+	"9024"=>"9023"
+	"9025"=>"9023"
+
+	// ['HALFG3:7842', 'HALFG5:7896'] => 7826:HALFG2
+	// Well, friend, why don't you join me by the hearth? I have an extra pipe that you could use. I have a feeling though, that you adventuring types never have time for relaxation.
+	"7842"=>"7826"
+	"7896"=>"7826"
+
+	// ['HALFG3:9295', 'HALFG4:9296', 'HALFG5:9297', 'HALFG6:9298', 'HALFGU:9300'] => 9294:HALFG2
+	// Not to be rude, but I'd rather you left immediately.
+	"9295"=>"9294"
+	"9296"=>"9294"
+	"9297"=>"9294"
+	"9298"=>"9294"
+	"9300"=>"9294"
+
+	// ['HOBGOD:3374'] => 3372:HOBGOD
+	// Gar! Toc-La!
+	"3374"=>"3372"
+
+	// ['HOUSG2:8126'] => 8125:HOUSG1
+	// I stand here all day. As if I know anything. There's the bandits, and the iron shortage, but that's common knowledge.
+	"8126"=>"8125"
+
+	// ['HOUSG2:9249', 'HOUSG3:9260', 'HOUSG4:9259', 'HOUSG5:9258', 'HOUSG6:9257'] => 9252:HOUSG1
+	// You're not welcome here! Get out or be thrown out!
+	"9249"=>"9252"
+	"9260"=>"9252"
+	"9259"=>"9252"
+	"9258"=>"9252"
+	"9257"=>"9252"
+
+	// ['HUSAM:1611', 'HUSAM:1616'] => 1591:HUSAM
+	// A secrets route. Oh ya, I know ones, a really goods one. Ya know Krammach Arhsstaff? Ah it doeshn't matter. His *hic* home's located righst beside the Iron Throne citadel. He's in close with Rieltar, he he, know what I mean. Wells anyways, he's gots a passage from hish bashement to the Throne's bashement.
+	"1611"=>"1591"
+	"1616"=>"1591"
+
+	// ['HUSAM:1612'] => 1592:HUSAM
+	// Ish that enough for you guysh, or do you wants to know more?
+	"1612"=>"1592"
+
+	// ['HUSAM2:16913'] => 1972:HUSAM
+	// Fine thens, I'll find some other frens.
+	"16913"=>"1972"
+
+	// ['HUSAM2:16801'] => 2190:HUSAM
+	// Hey, guys. Remember me, your old bud Husam? *hic* Iz so good to see ya all again. Lots has happenedz since ya were gone. Heh heh, ya I've beens hearing all sortsa things. I heards you guys are wanted for murders. Hah, so yers murderers, eh? Well, I still like ya. Hey, I have somore info for yas. Do ya want ta hear it?
+	"16801"=>"2190"
+
+	// ['HUSAM2:16802'] => 2191:HUSAM
+	// What?! I'ms not drunk, ya got me confused wit' somebody else.
+	"16802"=>"2191"
+
+	// ['HUSAM2:16912'] => 2193:HUSAM
+	// *uuurp* Hey again. Iz me, Husam. I gotta talk to yas. Jez follow me.
+	"16912"=>"2193"
+
+	// ['HUSAM2:16914'] => 2194:HUSAM
+	// Sorry for misleading you, but there are times when subtlety works better than honesty. My associates and I don't want a fight, so we could ease the tension if all of us sheathed our weapons.
+	"16914"=>"2194"
+
+	// ['HUSAM2:16925'] => 2197:HUSAM
+	// The Zhentarim, an organization after my own heart. Well, we seem to have the same problem, so perhaps working together wouldn't be a bad thing.
+	"16925"=>"2197"
+
+	// ['HUSAM2:16928'] => 2198:HUSAM
+	// Harpers. They seem to meddle in everyone's affairs.
+	"16928"=>"2198"
+
+	// ['HUSAM2:16931'] => 2199:HUSAM
+	// Fair enough, but I do know that you're an enemy of the Iron Throne, and an enemy of an enemy is a friend.
+	"16931"=>"2199"
+
+	// ['HUSAM2:16939'] => 2204:HUSAM
+	// How did you fare?
+	"16939"=>"2204"
+
+	// ['HUSAM2:16942'] => 2205:HUSAM
+	// They should be down there; I had guards on all of the entrances. Go back and try again.
+	"16942"=>"2205"
+
+	// ['HUSAM2:16948'] => 2209:HUSAM
+	// Here's the secret entrance, it's up to you now. Get us through this without anyone dying.
+	"16948"=>"2209"
+
+	// ['TBIMOENJ:30114', 'TTIMOENJ:30099', 'TTIMOENJ:30114'] => 30099:TBIMOENJ
+	// When in this mode, the character can move wherever they wish. Any other action, such as attacking or casting a spell, will deactivate the ability.
+	"30114"=>"30099"
+	"30099"=>"30099"
+	"30114"=>"30099"
+
+	// ['IRON3:6265', 'IRON4:6266', 'IRON5:6267', 'IRON7:7035', 'IRON8:6268', 'IRON9:6269'] => 6263:IRON11
+	// You're obviously here on important business, friends. If you want to see Davaeorn, he's on the fourth floor.
+	"6265"=>"6263"
+	"6266"=>"6263"
+	"6267"=>"6263"
+	"7035"=>"6263"
+	"6268"=>"6263"
+	"6269"=>"6263"
+
+	// ['IRON12:9222', 'IRON13:9221', 'IRON14:9220', 'IRON2:9219', 'IRON3:9218', 'IRON4:9217', 'IRON5:9216', 'IRON6:9215', 'IRON7:9213', 'IRON8:9212', 'IRON9:9211', 'IRONGU:9237', 'IRONHO:9210'] => 9223:IRON11
+	// You're not welcome here! You'll pay with your life!
+	"9222"=>"9223"
+	"9221"=>"9223"
+	"9220"=>"9223"
+	"9219"=>"9223"
+	"9218"=>"9223"
+	"9217"=>"9223"
+	"9216"=>"9223"
+	"9215"=>"9223"
+	"9213"=>"9223"
+	"9212"=>"9223"
+	"9211"=>"9223"
+	"9237"=>"9223"
+	"9210"=>"9223"
+
+	// ['IRONM3:7661'] => 7657:IRONM2
+	// Good friend, why don't you take these 25 gold pieces and run along? Have some fun.
+	"7661"=>"7657"
+
+	// ['IRONM4:9208'] => 9209:IRONM3
+	// You're not welcome here! Get out or be thrown out!
+	"9208"=>"9209"
+
+	// ['KAISH2:23783'] => 21586:KAISH
+	// You have done what must, but now I stop. Here you hold, and here you must die.
+	"23783"=>"21586"
+
+	// ['KAISH2:23784'] => 21590:KAISH
+	// Why must we fight? Cannot let you leave knowing all this. We could have existed peacefully, but now you have fought and will never accept. Others will come to kill or capture. Adventurers like you always come, do they not? No, I must fight, and you must die! We may still have hope if Selaad returns, but you cannot help anymore.
+	"23784"=>"21590"
+
+	// ['KAISH2:23785'] => 21591:KAISH
+	// So it must be. We not leave, but neither will you. None must know of us, not know that we are threat. You will die, even if we must as well! Perhaps Selaad will bring another ship, but for now none will leave.
+	"23785"=>"21591"
+
+	// ['KAISH2:23786'] => 21593:KAISH
+	// Such generosity, but if you leave you will exterminate anyway. Others will come, other fools just to fight the "evil" we are. No, we must remain alone here now, and so must you. Die and sleep, and you will not know the loneliness. Perhaps if Selaad returns we will try again. Until then, we stay.
+	"23786"=>"21593"
+
+	// ['MCOOK2:9186'] => 9187:MCOOK
+	// I wouldn't trust you as far as I can spit!
+	"9186"=>"9187"
+
+	// ['MCOOK5:9183'] => 9184:MCOOK4
+	// Out! And never darken my door again!
+	"9183"=>"9184"
+
+	// ['MERCH3:6299'] => 6298:MERCH2
+	// I've heard a lot of stuff lately. Iron seems to be hard to come by, what with the bandits and the faulty Nashkel ore. Trouble seems to be brewing between Baldur's Gate and Amn. I wouldn't be too surprised if a war broke out between the two.
+	"6299"=>"6298"
+
+	// ['MERCH3:9164'] => 9165:MERCH2
+	// I wouldn't trust you as far as I can spit!
+	"9164"=>"9165"
+
+	// ['MINEC3:9158'] => 9159:MINEC2
+	// Get away from me! I feel no safer with you than my captors!
+	"9158"=>"9159"
+
+	// ['MINEC5:6306'] => 6304:MINEC3
+	// I'm just a poor miserable miner. I don't know much; I'm sorry.
+	"6306"=>"6304"
+
+	// ['MONKTB3:31126'] => 31125:MONKTB2
+	// Interaction defaults to Talk for neutral targets and Attack for hostile targets. To talk to a neutral character (neutrals are identified by blue circles), tap on one of them. Don't forget to select one of your party members to do the talking. If you would like to talk to a hostile character, select the Talk icon and then tap on the character. If you would like to attack a neutral, select a weapon icon and then tap on the target.
+	"31126"=>"31125"
+
+	// ['MONKTU9:32613'] => 32524:MONKTU3
+	// Very well. Return to me if you wish to continue your lessons. 
+	"32613"=>"32524"
+
+	// ['MTBE6:8128'] => 8057:MTBE2
+	// The only thing I know of that might pique you interest are the rumors I've heard of an abandoned wizard's school to the east. I couldn't tell you where it is, but it's supposed to overflow with magical treasure.
+	"8128"=>"8057"
+
+	// ['MTBE3:9052'] => 9053:MTBE2
+	// You've outstayed your welcome!
+	"9052"=>"9053"
+
+	// ['MTBE9:9048'] => 9047:MTBE6
+	// Get out of my sight! I'll do nothing for you!
+	"9048"=>"9047"
+
+	// ['MTBE8:9049'] => 9054:MTBE7
+	// Lost your chance with me, you did! Get lost!
+	"9049"=>"9054"
+
+	// ['MTOB7:8795', 'MTOB8:8798', 'MTOB9:8802'] => 8806:MTOB10
+	// I don't leave my home much, so there's little I know about what goes on within the city. Why don't you take this gold piece and enjoy yourself at the market square? There's all sorts of things to do there.
+	"8795"=>"8806"
+	"8798"=>"8806"
+	"8802"=>"8806"
+
+	// ['MTOB5:9177'] => 9178:MTOB4
+	// I'll box your ears if you step an inch closer!
+	"9177"=>"9178"
+
+	// ['MTOB7:9175', 'MTOB8:9174', 'MTOB9:9173'] => 9176:MTOB6
+	// Leave me! You've outstayed your welcome!
+	"9175"=>"9176"
+	"9174"=>"9176"
+	"9173"=>"9176"
+
+	// ['MTOWN4:6294', 'MTOWN5:6295'] => 6293:MTOWN2
+	// Though ye're a good friend, I'm not too good at keeping with current events. Nuthin' I have to tell ya would interest you much, I'm afraid.
+	"6294"=>"6293"
+	"6295"=>"6293"
+
+	// ['MTOWN4:9170', 'MTOWNA:9172'] => 9171:MTOWN2
+	// Get out of my sight! I'll do nothing for you!
+	"9170"=>"9171"
+	"9172"=>"9171"
+
+	// ['NOBL12:9144'] => 9145:NOBL11
+	// Get out of my sight! I'll do nothing for you!
+	"9144"=>"9145"
+
+	// ['NOBL13:8259'] => 8238:NOBL12
+	// There's quite a few rumors going about. Most of them center about Sarevok. It's rather obvious that he'll be the next Grand Duke, but the real news is that he's thinking about war... against Amn.
+	"8259"=>"8238"
+
+	// ['NOBL15:9141', 'NOBLBA:9133'] => 9142:NOBL14
+	// Approach me not! I'll ruffle you up, I will!
+	"9141"=>"9142"
+	"9133"=>"9142"
+
+	// ['NOBL3:6321', 'NOBLBA:6322'] => 6320:NOBL2
+	// As a man of distinguished lineage, I rarely stoop to the common events of the peasant. I doubt that there is anything I could tell you that you would find useful. Sorry friend.
+	"6321"=>"6320"
+	"6322"=>"6320"
+
+	// ['NOBL3:9139', 'NOBL5:9137', 'NOBL6:9136', 'NOBL7:9135'] => 9140:NOBL2
+	// I'll not speak a word after what you did!
+	"9139"=>"9140"
+	"9137"=>"9140"
+	"9136"=>"9140"
+	"9135"=>"9140"
+
+	// ['NOBW3:6325', 'NOBWBA:6326'] => 6324:NOBW2
+	// Even though it is not decent for me to mingle with those beneath my station, I find that you possess a certain irresistible charm. I am willing to tell whatever you wish to hear. Perhaps you'd like to know about the last ball I attended. It was wondrous, I was at the forefront of everyone's mind.
+	"6325"=>"6324"
+	"6326"=>"6324"
+
+	// ['NOBW3:9131', 'NOBW5:9129', 'NOBW6:9128', 'NOBW7:9127', 'NOBW9:9124', 'NOBWBA:9123'] => 9132:NOBW2
+	// I'll not have you near me!
+	"9131"=>"9132"
+	"9129"=>"9132"
+	"9128"=>"9132"
+	"9127"=>"9132"
+	"9124"=>"9132"
+	"9123"=>"9132"
+
+	// ['NOBW6:8267'] => 8241:NOBW5
+	// There's quite a few rumors going about. Most of them center about Sarevok. It's rather obvious that he'll be the next Grand Duke, but the real news is that he's thinking about war... against Amn.
+	"8267"=>"8241"
+
+	// ['PARDA1:20641'] => 20601:PARDA
+	// All of you should watch yourselves carefully. There have been some strange men asking about <CHARNAME>.
+	"20641"=>"20601"
+
+	// ['PROST3:9103'] => 9104:PROST2
+	// You'll get nothing from me!
+	"9103"=>"9104"
+
+	// ['PROST5:9101', 'PROST6:9100', 'PROST7:9099', 'PROST8:9098'] => 9102:PROST4
+	// Get near me again and I'll have your nethers on a platter!
+	"9101"=>"9102"
+	"9100"=>"9102"
+	"9099"=>"9102"
+	"9098"=>"9102"
+
+	// ['PROST6:8286', 'PROST7:8313', 'PROST8:8317'] => 8283:PROST5
+	// All I can tell you, lover, is to watch for Slythe and Krystin. They're crazy.
+	"8286"=>"8283"
+	"8313"=>"8283"
+	"8317"=>"8283"
+
+	// ['READ3:9096', 'READ4:9095'] => 9097:READ2
+	// I'll not speak a word after what you did!
+	"9096"=>"9097"
+	"9095"=>"9097"
+
+	// ['READ4:6370'] => 3352:READ3
+	// I'm just a humble reader, there is little that I can tell you about the world outside of Candlekeep.
+	"6370"=>"3352"
+
+	// ['REVEN3:10256'] => 8704:REVEN2
+	// Thief will pay with DEATH! RETURN! RETURN the dagger!
+	"10256"=>"8704"
+
+	// ['SERVAN:9088'] => 9087:SERVA2
+	// Not to be rude, but I'd rather you left immediately.
+	"9088"=>"9087"
+
+	// ['SLAVE2:6398', 'SLAVE3:6399', 'SLAVE4:6400', 'SLAVE5:6401', 'SLAVE6:6402'] => 6397:SLAVE
+	// I don't know nuthin', I'm just a slave.
+	"6398"=>"6397"
+	"6399"=>"6397"
+	"6400"=>"6397"
+	"6401"=>"6397"
+	"6402"=>"6397"
+
+	// ['SLAVE2:9080', 'SLAVE3:9079', 'SLAVE4:9078', 'SLAVE5:9077', 'SLAVE6:9076'] => 9081:SLAVE
+	// Get away from me!
+	"9080"=>"9081"
+	"9079"=>"9081"
+	"9078"=>"9081"
+	"9077"=>"9081"
+	"9076"=>"9081"
+
+	// ['TENYA2:9935'] => 1841:TENYA
+	// To what dishonor do we owe your violating our temple? Is it not you who served Umberlee in Beregost? Such a promising introduction to be followed by your breaking onto our sacred ground. State your purpose here!
+	"9935"=>"1841"
+
+	// ['TENYA2:9936'] => 1842:TENYA
+	// You do not ask for much, do you? Very well, take the child and go. I warrant you will no doubt resurrect him, but the lesson is learned. Death changes one, especially one so young. I know of this like no other. GO! And never darken these halls again... unless summoned!
+	"9936"=>"1842"
+
+	// ['TENYA2:9938'] => 1844:TENYA
+	// I suppose such brash and disrespectful behavior is to be expected from such a bloodthirsty lot. Very well, you may have the body you came for. No doubt you will raise him, but he will have learned. By this time Umberlee herself may have had a chat with him. Oh, one other thing... NEVER come here again unless summoned.
+	"9938"=>"1844"
+
+	// ['TENYA2:9942'] => 1860:TENYA
+	// Do they now? It is not unlike how a child would miss its parent I imagine... Take him and begone. Do not expect such charity in the future, and do not return to this place unless summoned!
+	"9942"=>"1860"
+
+	// ['TENYA2:9945'] => 6340:TENYA
+	// It has been decided you are to be safe here as need be. Umberlee hath no love for thee or thy cause, but hath an interest anyway. The inevitable chaos and turmoil that would follow a godly resurrection fall a touch too close to pleasing godly brethren like Talos. Anything that would amuse him is to be... discouraged. Come and go as you wish, but do not advertise the fact that you can.
+	"9945"=>"6340"
+
+	// ['TETHTO2:16807'] => 12:TETHTO
+	// I know of no one named Koveras, but Koveras is the reverse of Sarevok, a young man who accompanied the leaders of the Iron Throne when they first came. I know not where he has gone.
+	"16807"=>"12"
+
+	// ['TRAVEL:9041'] => 9040:TRAVE2
+	// Not to be rude, but I'd rather you left immediately.
+	"9041"=>"9040"
+
+
 END
