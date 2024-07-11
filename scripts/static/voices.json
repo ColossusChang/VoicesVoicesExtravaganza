@@ -422,6 +422,10 @@
     "platform": "elevenLabs",
     "voice": "NOpBlnGInO9m6vDvFkFC"
   },
+  "XZARP": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/08663220-b002-4949-8f0c-7fb147d56136/original/manifest.json"
+  },
   "XZARZ": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/08663220-b002-4949-8f0c-7fb147d56136/original/manifest.json"
