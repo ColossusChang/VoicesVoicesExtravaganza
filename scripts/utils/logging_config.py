@@ -1,4 +1,6 @@
 import logging
+import time
+import os
 
 """
 Levels:
@@ -44,20 +46,27 @@ class CustomFormatter(logging.Formatter):
 
 
 def setup_logger():
+    # Ensure the log directory exists
+    os.makedirs("logs", exist_ok=True)
+
     # Create a logger
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
 
-    # Create a handler
-    handler = logging.StreamHandler()
-    handler.setLevel(logging.DEBUG)
+    # Create console handler
+    consoleHandler = logging.StreamHandler()
+    consoleHandler.setLevel(logging.DEBUG)
+    consoleHandler.setFormatter(CustomFormatter())
 
-    # Set the format
-    handler.setFormatter(CustomFormatter())
+    # Create file handler
+    fileHandler = logging.FileHandler(f'{time.strftime("logs/%Y%m%d_%H%M%S")}.log')
+    fileHandler.setLevel(logging.DEBUG)
+    fileHandler.setFormatter(logging.Formatter(CustomFormatter.format))
 
-    # Add the handler to the logger
+    # Add handlers to the logger
     if not logger.hasHandlers():
-        logger.addHandler(handler)
+        logger.addHandler(consoleHandler)
+        logger.addHandler(fileHandler)
 
     return logger
 
