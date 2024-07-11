@@ -1,14 +1,10 @@
 import os
 import re
 import argparse
+import importlib
 import sys
 from utils.utilities import getVoiceId, WAV_DIR
-import voiceGetters
 from utils.logging_config import logger
-import voiceGetters.elevenLabs
-import voiceGetters.typecast
-import voiceGetters.naturalReaders
-import voiceGetters.playht
 
 TXT_DIR = "../bg/BGtxt"
 
@@ -96,14 +92,18 @@ def getSoundsForCreature(creatureId: str):
 
                 logger.info(f"Getting sound for line {number}: {words}")
 
-                if platform == "naturalReaders":
-                    voiceGetters.naturalReaders.getSoundForLine(words, number, voice)
-                elif platform == "typecast":
-                    voiceGetters.typecast.getSoundForLine(words, number, voice)
-                elif platform == "playHT":
-                    voiceGetters.playht.getSoundForLine(words, number, voice)
-                else:
-                    voiceGetters.elevenLabs.getSoundForLine(words, number, voice)
+                module_path = f"voiceGetters.{platform}"
+
+                # Dynamically import the module
+                module = importlib.import_module(module_path)
+                # Call the getSoundForLine function from the module
+                getattr(module, "getSoundForLine")(words, number, voice)
+    except ImportError:
+        raise ValueError(f"Unsupported platform: {platform}")
+    except AttributeError:
+        raise ValueError(
+            f"The module {module_path} does not have the function 'getSoundForLine'"
+        )
     except Exception as e:
         logger.error(f"{e}")
 
