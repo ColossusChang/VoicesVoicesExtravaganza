@@ -48,6 +48,13 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	"1557"=>"16791"
 	"1558"=>"16792"
 	"1561"=>"16795"
+	// ['XZAR:15915'] => 16706:XZARJ
+	// You... you're letting me go? But we have shared so much... so many good times... This is truly a sad day indeed. Goodbye, so sad, blah blah blah and all that rot.
+	"15915"=>"16706"
+	"15916"=>"16708"
+	"227"=>"16711"
+
+
 	// ['BALORA:14544'] => 14404:BALORA
 	// Smile more often, Edwin. It looks good on you.
 	"14544"=>"14404"
