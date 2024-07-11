@@ -91,6 +91,18 @@
     "platform": "naturalReaders",
     "voice": "Paul"
   },
+  "CORAN": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/0bb8093f-59e2-48db-9933-39af6ea5cf04/original/manifest.json"
+  },
+  "CORANJ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/0bb8093f-59e2-48db-9933-39af6ea5cf04/original/manifest.json"
+  },
+  "CORANP": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/0bb8093f-59e2-48db-9933-39af6ea5cf04/original/manifest.json"
+  },
   "CORANZ": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/0bb8093f-59e2-48db-9933-39af6ea5cf04/original/manifest.json"
