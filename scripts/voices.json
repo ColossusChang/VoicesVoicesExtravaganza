@@ -91,6 +91,10 @@
     "platform": "naturalReaders",
     "voice": "Paul"
   },
+  "CORANZ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/0bb8093f-59e2-48db-9933-39af6ea5cf04/original/manifest.json"
+  },
   "DARRYL": {
     "platform": "elevenLabs",
     "voice": "E95NigJoVU5BI8HjQeN3"
