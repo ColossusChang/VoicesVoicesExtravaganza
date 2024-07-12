@@ -127,6 +127,10 @@
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/29ccc11b-acc5-4222-bc6d-36127363543d/original/manifest.json"
   },
+  "ELDOTZ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/66179136-ccc9-487a-8e76-9e80be07efac/original/manifest.json"
+  },
   "ENDER": {
     "locale": "american",
     "platform": "naturalReaders",
