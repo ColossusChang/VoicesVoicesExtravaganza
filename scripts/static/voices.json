@@ -422,6 +422,10 @@
     "platform": "elevenLabs",
     "voice": "NOpBlnGInO9m6vDvFkFC"
   },
+  "XANJ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/f8f6e54f-ad2b-498d-a5f9-b3e5a213e5b2/original/manifest.json"
+  },
   "XANP": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/f8f6e54f-ad2b-498d-a5f9-b3e5a213e5b2/original/manifest.json"
