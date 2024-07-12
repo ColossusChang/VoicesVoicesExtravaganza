@@ -174,9 +174,9 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	"14525"=>"14426"
 	"14535"=>"14426"
 
-	// ['BEDWIN:14526'] => 14427:BEDWIN
+	// ['BEDWIN:14526'] => 9337:EDWIN
 	// Her power is nothing without the will to use it! Step from behind your excuses and let us end this here!
-	"14526"=>"14427"
+	"14526"=>"9337"
 
 	// ['BEDWIN:14543'] => 14428:BEDWIN
 	//  'Tis welcome you find no fault with one such as I.
@@ -1094,7 +1094,6 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	// ['TBIMOENJ:30114', 'TTIMOENJ:30099', 'TTIMOENJ:30114'] => 30099:TBIMOENJ
 	// When in this mode, the character can move wherever they wish. Any other action, such as attacking or casting a spell, will deactivate the ability.
 	"30114"=>"30099"
-	"30114"=>"30099"
 
 	// ['IRON3:6265', 'IRON4:6266', 'IRON5:6267', 'IRON7:7035', 'IRON8:6268', 'IRON9:6269'] => 6263:IRON11
 	// You're obviously here on important business, friends. If you want to see Davaeorn, he's on the fourth floor.
@@ -1344,5 +1343,131 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	// Not to be rude, but I'd rather you left immediately.
 	"9041"=>"9040"
 
+	// ['DYNAHJ:16726'] => 13938:DYNAHE
+	// stand easy minsc they are to be trusted for it was their valor that rescued me
+	"16726"=>"13938"
 
+	// ['DYNAHJ:16727'] => 13940:DYNAHE
+	// now minsc that thick head is best left where it is regardless of how little it is used thou shalt continue to accompany me as previously assigned no doubt our new friends would welcome a warrior of thy perseverance
+	"16727"=>"13940"
+
+	// ['DYNAHE:16110'] => 16735:DYNAHJ
+	// if thou dost no longer desire my companionship then so be it i shall not force myself where i am not wanted come minsc we will continue on ourselves
+	"16110"=>"16735"
+
+	// ['DYNAHE:16112'] => 16737:DYNAHJ
+	// thou hast proven to be quite a leader i shall look forward to when we can again call each other comrade come along minsc
+	"16112"=>"16737"
+
+	// ['DYNAHE:648'] => 20703:DYNAHE
+	// i have no doubt thou shalt make an interesting traveling companion
+	"648"=>"20703"
+
+	// ['BEDWIN:14427'] => 9337:EDWIN
+	// her power is nothing without the will to use it step from behind your excuses and let us end this here
+	"14427"=>"9337"
+
+	// ['EDWINJ:16738'] => 628:EDWIN
+	// so the witch dynaheir is dead i would have thought her more formidable to be so far from her homeland why then was she here her demise is not the checkmate i had hoped for merely the check what what do you want oh yes the matter of payment although i begin to doubt whether their input was all that vital still something for their trouble is in order if only to appease them as we never fixed a price your payment shall be one year of my services as a wizard i am sure you agree that my guidance will be far more valuable than any monetary sum
+	"16738"=>"628"
+
+	// ['EDWINJ:10688'] => 632:EDWIN
+	// if theyll not do the deed then our deal is forfeit you side with the witch then you will die with her beware my return
+	"10688"=>"632"
+
+	// ['ELDOTH:16161'] => 16763:ELDOTJ
+	// i would rather travel alone than spend a second more with you boorish oafs goodbye and good riddance come along skie
+	"16161"=>"16763"
+
+	// ['ELDOTH:16163'] => 16765:ELDOTJ
+	// it is a pity our time together has been thoroughly charming perhaps we will meet again come along skie
+	"16163"=>"16765"
+
+	// ['ELDOTJ:16748'] => 876:ELDOTH
+	// you had agreed if youre not going to live up to your part of the bargain ill find someone else who will
+	"16748"=>"876"
+
+	// ['ELDOTJ:16756'] => 882:ELDOTH
+	// skie its good to see you again were here to get you away from this place these people with me are friends of mine were what you might call adventurers
+	"16756"=>"882"
+
+	// ['KIVANP:16634'] => 6281:KIVAN
+	// all i can tell you friend is that you must help me gain revenge the evil ogre tazok killed my lover deheriana he must suffer for that act and i will ensure that he does
+	"16634"=>"6281"
+
+	// ['MINSC:16129'] => 16721:MINSCJ
+	// i am truly saddened that you wish minsc and boo to leave if you have any need for a stout blade and an even stouter man to swing it do not hesitate to call on me lets go dynaheir you are safe with me regardless
+	"16129"=>"16721"
+
+	// ['MINSCJ:16716'] => 482:MINSC
+	// we take too long my charge is in desperate peril if we do not go now you are a coward
+	"16716"=>"482"
+
+	// ['SAFANJ:16652'] => 14739:SAFANA
+	// hmm it seems that northern men are as mindless as they are impotent leave as you wish i have my own agenda
+	"16652"=>"14739"
+
+	// ['SAFANJ:16777'] => 600:SAFANA
+	// youve made the right decision boys but now we should talk about the leadership of this group i think it needs overhauling
+	"16777"=>"600"
+
+	// ['SHARTJ:16779'] => 2148:SHARTE
+	// your daughter is who speaks to you angelo or have you somehow forgotten
+	"16779"=>"2148"
+
+	// ['BVICON:14597'] => 14503:BVICON
+	// dont threaten me kivan it shall only lead to your death
+	"14597"=>"14503"
+
+	// ['YESLIP:16694'] => 6446:YESLIC
+	// ive been in prison for a considerable time i really dont know whats been happening on the surface all i can tell you is this whatever those iron throne crooks are up to its not good not good at all
+	"16694"=>"6446"
+
+	// ['FIREBE:14996'] => 16187:FIREB1
+	// i always felt you were cut from wiser cloth than that old friend gorion would be sad indeed
+	"14996"=>"16187"
+
+	// ['FTOWBE:6419'] => 6418:FTOWBA
+	// im just a simple little lady i dont know much at all
+	"6419"=>"6418"
+
+	// ['FTOWBEZ:17751'] => 850:FTOWBE
+	// youre the adventurers who killed all them monsters at nashkel arent you you must be really brave if we had more like you wed never have to worry about things like this again
+	"17751"=>"850"
+
+	// ['GATEWA2:16806'] => 116:GATEWA
+	// there are several rules that need be adhered to of which you are no doubt aware first you are prohibited from taking any of the books from their respective rooms second certain rooms will be inscribed with a rune and are not to be entered third you are not to stay within the confines of candlekeep for more than ten days now follow me ill take you to your quarters
+	"16806"=>"116"
+
+	// ['HUSAM:1606'] => 1590:HUSAM
+	// the thronesh plans theys wants to make money alwaysh more money buts i know thish theyre leadersh the big three uns theyre going to candleskeeps yes they are buuurp something big somethings huuuuuges going to happens there
+	"1606"=>"1590"
+
+	// ['HUSAM2:16922'] => 2196:HUSAM
+	// mercenaries huh well your employer isnt in the best of shape right now so perhaps you need some help
+	"16922"=>"2196"
+
+	// ['HUSAM2:16934'] => 2200:HUSAM
+	// ive been tracking the movements of two night masks whove been operating in the city over the past few weeks id say they were responsible for framing the past several murders on the shadow thieves i know theyve been staying at a place called the undercellar how bout we pay them a visit
+	"16934"=>"2200"
+
+	// ['HUSAM2:16943'] => 2206:HUSAM
+	// good did you find anything on their bodies
+	"16943"=>"2206"
+
+	// ['IRON6:9214'] => 6263:IRON11
+	// youre obviously here on important business friends if you want to see davaeorn hes on the fourth floor
+	"9214"=>"6263"
+
+	// ['NOBW7:8396'] => 6324:NOBW2
+	// even though it is not decent for me to mingle with those beneath my station i find that you possess a certain irresistible charm i am willing to tell whatever you wish to hear perhaps youd like to know about the last ball i attended it was wondrous i was at the forefront of everyones mind
+	"8396"=>"6324"
+
+	// ['TENYA2:9943'] => 1861:TENYA
+	// some sage words indeed you know your place in things well appropriate behavior should not go unrewarded here be the body you seek no doubt your intention is to resurrect the child no matter the lesson will have been learned do not return here unless summoned you shall find the reception more chilling
+	"9943"=>"1861"
+
+	// ['TETHTO2:16804'] => 11:TETHTO
+	// hello young one i am sorry to see thee in such terrible circumstances i know thee well enough to see that you have been falsely accused tomorrow ulraunt will most likely sentence thee to be sent to baldurs gate there thou wouldst receive the death penalty for these actions i know that gorion would not want to see his only child killed a scant few weeks after his own death tis as a favor to his memory that i will help thee escape make thy way through the catacombs beneath the library but disturb them not i have your possessions with me you must take them and go with haste
+	"16804"=>"11"
 END
