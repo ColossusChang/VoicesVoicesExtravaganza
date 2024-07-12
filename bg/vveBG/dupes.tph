@@ -1094,7 +1094,6 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	// ['TBIMOENJ:30114', 'TTIMOENJ:30099', 'TTIMOENJ:30114'] => 30099:TBIMOENJ
 	// When in this mode, the character can move wherever they wish. Any other action, such as attacking or casting a spell, will deactivate the ability.
 	"30114"=>"30099"
-	"30099"=>"30099"
 	"30114"=>"30099"
 
 	// ['IRON3:6265', 'IRON4:6266', 'IRON5:6267', 'IRON7:7035', 'IRON8:6268', 'IRON9:6269'] => 6263:IRON11
