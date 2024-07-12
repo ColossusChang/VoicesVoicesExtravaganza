@@ -422,6 +422,14 @@
     "platform": "elevenLabs",
     "voice": "NOpBlnGInO9m6vDvFkFC"
   },
+  "XANP": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/f8f6e54f-ad2b-498d-a5f9-b3e5a213e5b2/original/manifest.json"
+  },
+  "XANZ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/f8f6e54f-ad2b-498d-a5f9-b3e5a213e5b2/original/manifest.json"
+  },
   "XZAR": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/08663220-b002-4949-8f0c-7fb147d56136/original/manifest.json"
