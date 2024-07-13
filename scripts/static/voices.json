@@ -240,6 +240,10 @@
     "platform": "elevenLabs",
     "voice": "wc4MrBc4JWrRyg8WbEVP"
   },
+  "KOVERA": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/fc1fef6a-d79e-4dc4-acbc-bdc82710a0e5/original/manifest.json"
+  },
   "LEAGGU": {
     "platform": "elevenLabs",
     "voice": "RoaeVrsfpV2MsIMUBI2m"
