@@ -393,6 +393,10 @@
     "platform": "elevenLabs",
     "voice": "BCoftopnrQ6vuipHvbVj"
   },
+  "SHARTJ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/0228ad84-c25c-4c3f-bda0-fc85122fa59a/original/manifest.json"
+  },
   "SHARTP": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/0228ad84-c25c-4c3f-bda0-fc85122fa59a/original/manifest.json"
