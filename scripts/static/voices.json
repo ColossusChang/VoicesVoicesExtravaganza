@@ -393,9 +393,13 @@
     "platform": "elevenLabs",
     "voice": "BCoftopnrQ6vuipHvbVj"
   },
+  "SHARTP": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/0228ad84-c25c-4c3f-bda0-fc85122fa59a/original/manifest.json"
+  },
   "SHARTZ": {
     "platform": "playHT",
-    "voice": "s3://voice-cloning-zero-shot/602c3a49-ac7a-4649-8b0f-4142eea29526/original/manifest.json"
+    "voice": "s3://voice-cloning-zero-shot/0228ad84-c25c-4c3f-bda0-fc85122fa59a/original/manifest.json"
   },
   "STONE": {
     "platform": "narakeet",
