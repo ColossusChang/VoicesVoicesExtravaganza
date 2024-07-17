@@ -1,5 +1,7 @@
 ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	// unvoiced => voiced
+	"9314"=>"9310"
+	"17334"=>"2317"
 	"11861"=>"20643"
 	"16409"=>"16411"
 	"15425"=>"14743"

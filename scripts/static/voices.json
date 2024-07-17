@@ -397,6 +397,10 @@
     "platform": "elevenLabs",
     "voice": "BCoftopnrQ6vuipHvbVj"
   },
+  "SAREVO": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/fc1fef6a-d79e-4dc4-acbc-bdc82710a0e5/original/manifest.json"
+  },
   "SHARTE": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/0228ad84-c25c-4c3f-bda0-fc85122fa59a/original/manifest.json"
