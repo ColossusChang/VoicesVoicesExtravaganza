@@ -236,6 +236,10 @@
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/fcbdf7a7-b267-45f2-aaa0-8ec9c91077ee/original/manifest.json"
   },
+  "KAGAIN": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/fcbdf7a7-b267-45f2-aaa0-8ec9c91077ee/original/manifest.json"
+  },
   "KAGAIP": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/fcbdf7a7-b267-45f2-aaa0-8ec9c91077ee/original/manifest.json"
