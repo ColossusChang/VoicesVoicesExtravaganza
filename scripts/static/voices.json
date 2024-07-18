@@ -232,6 +232,10 @@
     "platform": "elevenLabs",
     "voice": "GJ2LH87H8UBouPIwuVg4"
   },
+  "KAGAIZ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/fcbdf7a7-b267-45f2-aaa0-8ec9c91077ee/original/manifest.json"
+  },
   "KARAN1": {
     "platform": "elevenLabs",
     "voice": "wc4MrBc4JWrRyg8WbEVP"
