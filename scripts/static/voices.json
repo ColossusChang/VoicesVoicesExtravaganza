@@ -240,6 +240,14 @@
     "platform": "elevenLabs",
     "voice": "wc4MrBc4JWrRyg8WbEVP"
   },
+  "KIVANJ": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/9afab1bd-ceb1-4898-ac2e-cfbe321ce3c5/original/manifest.json"
+  },
+  "KIVANP": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/9afab1bd-ceb1-4898-ac2e-cfbe321ce3c5/original/manifest.json"
+  },
   "KIVANZ": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/9afab1bd-ceb1-4898-ac2e-cfbe321ce3c5/original/manifest.json"
