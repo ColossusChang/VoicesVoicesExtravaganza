@@ -526,6 +526,10 @@
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/08663220-b002-4949-8f0c-7fb147d56136/original/manifest.json"
   },
+  "YESLIC": {
+    "platform": "playHT",
+    "voice": "s3://voice-cloning-zero-shot/a6e1595d-28a5-479b-becd-d8cc8c500d00/original/manifest.json"
+  },
   "YESLIP": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/a6e1595d-28a5-479b-becd-d8cc8c500d00/original/manifest.json"
