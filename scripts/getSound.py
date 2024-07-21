@@ -3,10 +3,8 @@ import re
 import argparse
 import importlib
 import sys
-from utils.utilities import getVoice, WAV_DIR
+from utils.utilities import getVoice, WAV_DIR, TXT_DIR
 from utils.logging_config import logger
-
-TXT_DIR = "../bg/BGtxt"
 
 wordFixes = {
     "Gorion": "Grraion",

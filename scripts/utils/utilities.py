@@ -3,6 +3,7 @@ import requests
 from utils.logging_config import logger
 
 CHUNK_SIZE = 1024
+TXT_DIR = "../bg/BGtxt"
 WAV_DIR = "../bg/vveBG/WAV"
 
 
