@@ -1,0 +1,4 @@
+ffmpeg_python==0.2.0
+python-dotenv==1.0.1
+Requests==2.32.3
+sseclient_py==1.8.0
