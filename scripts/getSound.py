@@ -32,14 +32,14 @@ hostileWords = (
 )
 
 
-def fixWords(words: str):
+def fix_words(words: str):
     words = re.sub(r"<[^>]+>, ", "", words)
     words = re.sub(r"<[^>]+>. ", "", words)
     words = re.sub(r"<[^>]+>\? ", "", words)
     words = re.sub(r"<[^>]+>! ", "", words)
     words = re.sub(r" <[^>]+>", "", words)
     for key, value in wordFixes.items():
-        words = words.replace(key, value)
+        words = re.sub(rf"\b{re.escape(key)}\b", value, words)
     return words
 
 
@@ -83,7 +83,7 @@ def getSoundsForCreature(creatureId: str, voice=None):
                 if words.startswith(hostileWords):
                     continue
 
-                words = fixWords(words)
+                words = fix_words(words)
                 if voice is None:
                     voice = getVoice(creatureId)
                 number = extractNumber(filename)
