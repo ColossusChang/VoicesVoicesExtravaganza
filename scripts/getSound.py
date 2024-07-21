@@ -3,7 +3,7 @@ import re
 import argparse
 import importlib
 import sys
-from utils.utilities import getVoiceId, WAV_DIR
+from utils.utilities import getVoice, WAV_DIR
 from utils.logging_config import logger
 
 TXT_DIR = "../bg/BGtxt"
@@ -70,7 +70,7 @@ def wavExists(txtFileName: str):
     return os.path.exists(wavFilepath)
 
 
-def getSoundsForCreature(creatureId: str):
+def getSoundsForCreature(creatureId: str, voice=None):
     logger.info(f"Getting sounds for creature with ID {creatureId}")
     dir = f"{TXT_DIR}/{creatureId}"
     try:
@@ -86,7 +86,8 @@ def getSoundsForCreature(creatureId: str):
                     continue
 
                 words = fixWords(words)
-                voice = getVoiceId(creatureId)
+                if voice is None:
+                    voice = getVoice(creatureId)
                 number = extractNumber(filename)
                 platform = voice["platform"]
 

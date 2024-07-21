@@ -19,7 +19,7 @@ def loadDictFromJson(file_path):
 voiceIds = loadDictFromJson("static/voices.json")
 
 
-def getVoiceId(creatureId: str):
+def getVoice(creatureId: str):
     if creatureId not in voiceIds:
         raise ValueError(f"Creature with ID {creatureId} not found")
     return voiceIds[creatureId]
