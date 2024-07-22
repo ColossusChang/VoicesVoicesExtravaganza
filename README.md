@@ -9,6 +9,7 @@ Current supported platforms: ElevenLabs, Natural Readers, Play.HT, and Typecast.
 ### Installing Dependencies
 
 ```bash
+cd scripts
 pip install -r requirements.txt
 ```
 
