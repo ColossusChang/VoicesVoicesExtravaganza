@@ -68,12 +68,16 @@ def wavExists(txtFileName: str):
     return os.path.exists(wavFilepath)
 
 
-def getSoundsForCreature(creatureId: str, voice=None):
+def getSoundsForCreature(creatureId: str, voice=None, limit=None):
     logger.info(f"Getting sounds for creature with ID {creatureId}")
     dir = f"{TXT_DIR}/{creatureId}"
     try:
-        for filename in os.listdir(dir):
-            if (not filename.endswith(".txt")) or wavExists(filename):
+        filenames = os.listdir(dir)
+        if limit is not None and limit > 0:
+            filenames = filenames[:limit]
+
+        for filename in filenames:
+            if not filename.endswith(".txt") or wavExists(filename):
                 continue
             filepath = os.path.join(dir, filename)
 
