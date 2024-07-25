@@ -40,6 +40,12 @@
     "platform": "naturalReaders",
     "voice": "Sam"
   },
+  "ALDETH": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "ALDET",
+    "voice_id": "q7ziKHMV4t0c9wjGvYsg"
+  },
   "ALGERN": {
     "locale": "british",
     "platform": "naturalReaders",
