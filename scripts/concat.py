@@ -10,6 +10,8 @@ def get_sample_rate(wav_file):
     result = subprocess.run(
         [
             "ffprobe",
+            "-hide_banner",
+            "-loglevel", "quiet",
             "-v",
             "error",
             "-select_streams",
@@ -31,6 +33,8 @@ def get_duration(wav_file):
     result = subprocess.run(
         [
             "ffprobe",
+            "-hide_banner",
+            "-loglevel", "quiet",
             "-v",
             "error",
             "-select_streams",
@@ -63,6 +67,8 @@ def create_silence_wav(creature, target_rate):
     subprocess.run(
         [
             "ffmpeg",
+            "-hide_banner",
+            "-loglevel", "quiet",
             "-f",
             "lavfi",
             "-i",
@@ -92,6 +98,8 @@ def concatenate_files(creature):
     subprocess.run(
         [
             "ffmpeg",
+            "-hide_banner",
+            "-loglevel", "quiet",
             "-f",
             "concat",
             "-safe",
