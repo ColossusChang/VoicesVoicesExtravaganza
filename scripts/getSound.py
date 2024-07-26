@@ -73,6 +73,7 @@ def getSoundsForCreature(creatureId: str, voice=None, limit=None):
     dir = f"{TXT_DIR}/{creatureId}"
     try:
         filenames = os.listdir(dir)
+        numbers = []
         if limit is not None and limit > 0:
             filenames = filenames[:limit]
 
@@ -91,6 +92,7 @@ def getSoundsForCreature(creatureId: str, voice=None, limit=None):
                 if voice is None:
                     voice = getVoice(creatureId)
                 number = extractNumber(filename)
+                numbers.append(number)
                 platform = voice["platform"]
 
                 logger.info(f"Getting sound for line {number}: {words}")
@@ -101,6 +103,7 @@ def getSoundsForCreature(creatureId: str, voice=None, limit=None):
                 module = importlib.import_module(module_path)
                 # Call the getSoundForLine function from the module
                 getattr(module, "getSoundForLine")(words, number, voice)
+        return numbers
     except ImportError:
         raise ValueError(f"Unsupported platform: {platform}")
     except AttributeError:
