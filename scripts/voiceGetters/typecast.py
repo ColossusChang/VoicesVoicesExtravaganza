@@ -37,7 +37,7 @@ def getSoundForLine(words: str, number: str, voice):
     # Check response status code
     if response.status_code != 200:
         logger.error(f"{response.text}")
-        return
+        raise Exception(f"Failed to get sound for line {number}")
 
     response_data = response.json()
     url1 = response_data["result"]["voice_cloning_speak_urls"][0]

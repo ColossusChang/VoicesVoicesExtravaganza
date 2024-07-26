@@ -110,8 +110,6 @@ def getSoundsForCreature(creatureId: str, voice=None, limit=None):
         raise ValueError(
             f"The module {module_path} does not have the function 'getSoundForLine'"
         )
-    except Exception as e:
-        logger.error(f"{e}")
 
 
 if __name__ == "__main__":

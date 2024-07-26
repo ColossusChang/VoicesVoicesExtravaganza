@@ -42,7 +42,7 @@ def getSoundForLine(words: str, number: str, voice):
     # Check response status code
     if response.status_code != 200:
         logger.error(f"{response.text}")
-        return
+        raise Exception(f"Failed to get sound for line {number}")
 
     client = sseclient.SSEClient(response)
 
