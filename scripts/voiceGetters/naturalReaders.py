@@ -23,7 +23,7 @@ def getSoundForLine(words: str, number: str, voice):
     display_name = voice["voice"]
     locale = voice["locale"]
     # voice_id is only present if the voice is cloned
-    if voice["voice_id"] is not None:
+    if "voice_id" in voice:
         url = f"https://l6m5prrx81.execute-api.us-east-1.amazonaws.com/prod220818/el/speak?display_name={display_name}&speed=180&style=&locale={locale}&model=v2&voice_id={voice['voice_id']}"
     else:
         url = f"https://l6m5prrx81.execute-api.us-east-1.amazonaws.com/prod220818/el/speak?display_name={display_name}&speed=180&style=&locale={locale}&model=v2"
