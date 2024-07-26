@@ -72,6 +72,11 @@
     "platform": "naturalReaders",
     "voice": "Sally"
   },
+  "AMARAN": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Jessie"
+  },
   "BARSLIM": {
     "locale": "british",
     "platform": "naturalReaders",
