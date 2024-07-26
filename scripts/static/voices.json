@@ -77,6 +77,12 @@
     "platform": "naturalReaders",
     "voice": "Jessie"
   },
+  "AMNIS": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "AMNSO",
+    "voice_id": "g2VsmRtf4E6ZfQv2zwSA"
+  },
   "AMNIS2": {
     "locale": "american",
     "platform": "naturalReaders",
