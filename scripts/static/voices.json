@@ -156,6 +156,11 @@
     "platform": "naturalReaders",
     "voice": "Valentino"
   },
+  "ARKUSH": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Matilda"
+  },
   "BARSLIM": {
     "locale": "british",
     "platform": "naturalReaders",
