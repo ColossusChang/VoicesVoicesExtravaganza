@@ -140,6 +140,12 @@
     "platform": "naturalReaders",
     "voice": "Jim"
   },
+  "ARDENO": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "ARDEN",
+    "voice_id": "B2qmr62S1avCH6rfLUbo"
+  },
   "ARDROU": {
     "locale": "african-american",
     "platform": "naturalReaders",
