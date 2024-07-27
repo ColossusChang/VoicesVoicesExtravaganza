@@ -151,6 +151,11 @@
     "platform": "naturalReaders",
     "voice": "Arayah"
   },
+  "ARKION": {
+    "locale": "british",
+    "platform": "naturalReaders",
+    "voice": "Valentino"
+  },
   "BARSLIM": {
     "locale": "british",
     "platform": "naturalReaders",
