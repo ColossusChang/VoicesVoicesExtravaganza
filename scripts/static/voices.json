@@ -119,6 +119,16 @@
     "voice": "AMNSO",
     "voice_id": "g2VsmRtf4E6ZfQv2zwSA"
   },
+  "ANDOUT": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Harry"
+  },
+  "ANDRIS": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Ryan"
+  },
   "BARSLIM": {
     "locale": "british",
     "platform": "naturalReaders",
