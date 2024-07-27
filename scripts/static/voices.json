@@ -129,6 +129,16 @@
     "platform": "naturalReaders",
     "voice": "Ryan"
   },
+  "AOLN": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Jim"
+  },
+  "ARDROU": {
+    "locale": "african-american",
+    "platform": "naturalReaders",
+    "voice": "Arayah"
+  },
   "BARSLIM": {
     "locale": "british",
     "platform": "naturalReaders",
