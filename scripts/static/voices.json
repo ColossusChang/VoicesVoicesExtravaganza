@@ -129,6 +129,12 @@
     "platform": "naturalReaders",
     "voice": "Ryan"
   },
+  "ANGELO": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "ANGEL",
+    "voice_id": "iqkW8f5lvJniuYBfkPJP"
+  },
   "AOLN": {
     "locale": "american",
     "platform": "naturalReaders",
