@@ -250,6 +250,12 @@
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/d90a7e83-2d7f-4609-a764-3d9d902bf153/original/manifest.json"
   },
+  "HICK": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "AMNSO",
+    "voice_id": "g2VsmRtf4E6ZfQv2zwSA"
+  },
   "HOUSEN": {
     "locale": "american",
     "platform": "naturalReaders",
