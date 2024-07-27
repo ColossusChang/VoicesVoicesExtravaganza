@@ -95,6 +95,12 @@
     "voice": "AMNSO",
     "voice_id": "g2VsmRtf4E6ZfQv2zwSA"
   },
+  "AMNISE": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "AMNSO",
+    "voice_id": "g2VsmRtf4E6ZfQv2zwSA"
+  },
   "AMNISH": {
     "locale": "american",
     "platform": "naturalReaders",
