@@ -11,7 +11,8 @@ def get_sample_rate(wav_file):
         [
             "ffprobe",
             "-hide_banner",
-            "-loglevel", "quiet",
+            "-loglevel",
+            "quiet",
             "-v",
             "error",
             "-select_streams",
@@ -34,7 +35,8 @@ def get_duration(wav_file):
         [
             "ffprobe",
             "-hide_banner",
-            "-loglevel", "quiet",
+            "-loglevel",
+            "quiet",
             "-v",
             "error",
             "-select_streams",
@@ -68,7 +70,8 @@ def create_silence_wav(creature, target_rate):
         [
             "ffmpeg",
             "-hide_banner",
-            "-loglevel", "quiet",
+            "-loglevel",
+            "quiet",
             "-f",
             "lavfi",
             "-i",
@@ -99,7 +102,8 @@ def concatenate_files(creature):
         [
             "ffmpeg",
             "-hide_banner",
-            "-loglevel", "quiet",
+            "-loglevel",
+            "quiet",
             "-f",
             "concat",
             "-safe",
@@ -137,11 +141,11 @@ def do_concatenation(creature: str):
         sample_rate = get_sample_rate(wav_file_path)
         duration = get_duration(wav_file_path)
 
-        if duration < 1.0:
-            logger.info(
-                f"Ignoring {wav_file_path} as its duration is less than 1 second."
-            )
-            continue
+        # if duration < 1.0:
+        #     logger.info(
+        #         f"Ignoring {wav_file_path} as its duration is less than 1 second."
+        #     )
+        #     continue
 
         if sample_rate != target_rate:
             resampled_file = resample_wav(wav_file_path, target_rate, creature)
