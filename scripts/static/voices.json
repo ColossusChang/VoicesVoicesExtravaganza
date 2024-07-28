@@ -161,6 +161,11 @@
     "platform": "naturalReaders",
     "voice": "Matilda"
   },
+  "ASHEN": {
+    "locale": "american-irish",
+    "platform": "naturalReaders",
+    "voice": "Jeremy"
+  },
   "BARSLIM": {
     "locale": "british",
     "platform": "naturalReaders",
