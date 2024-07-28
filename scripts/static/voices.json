@@ -183,6 +183,12 @@
     "voice": "BANDT",
     "voice_id": "gJAE08WQHAEIfQc4dhOu"
   },
+  "BAELOTHJ": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "BAELOTH",
+    "voice_id": "P2jhFOs9exVwy2riVsSs"
+  },
   "BARDOL": {
     "locale": "american",
     "platform": "naturalReaders",
