@@ -166,6 +166,12 @@
     "platform": "naturalReaders",
     "voice": "Jeremy"
   },
+  "BANDIT": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "BANDT",
+    "voice_id": "gJAE08WQHAEIfQc4dhOu"
+  },
   "BARSLIM": {
     "locale": "british",
     "platform": "naturalReaders",
