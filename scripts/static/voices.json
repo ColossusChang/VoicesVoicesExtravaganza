@@ -166,6 +166,11 @@
     "platform": "naturalReaders",
     "voice": "Jeremy"
   },
+  "BANDIC": {
+    "locale": "american-irish",
+    "platform": "naturalReaders",
+    "voice": "Jeremy"
+  },
   "BANDIT": {
     "locale": "american",
     "platform": "naturalReaders",
@@ -177,6 +182,11 @@
     "platform": "naturalReaders",
     "voice": "BANDT",
     "voice_id": "gJAE08WQHAEIfQc4dhOu"
+  },
+  "BARDOL": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "Adam"
   },
   "BARSLIM": {
     "locale": "british",
