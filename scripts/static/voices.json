@@ -357,8 +357,10 @@
     "voice": "66879f5a3e1ea58f40f062ff"
   },
   "IMOENP": {
-    "platform": "typecast",
-    "voice": "66879f5a3e1ea58f40f062ff"
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "IMOEN",
+    "voice_id": "w9OQ1omZTob00Ppoh1Kl"
   },
   "IMOENZ": {
     "locale": "american",
