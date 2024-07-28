@@ -48,6 +48,6 @@ def getSoundForLine(words: str, number: str, voice):
     # Using ffmpeg-python to convert MP3 to WAV
     ffmpeg.input(f"{filePath}.mp3", ac="1").output(
         f"{filePath}.wav", loglevel="quiet"
-    ).run()
+    ).run(overwrite_output=True)
 
     os.remove(f"{filePath}.mp3")

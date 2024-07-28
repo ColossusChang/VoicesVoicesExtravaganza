@@ -56,19 +56,20 @@ def extractNumber(txtName):
         return None
 
 
-def wavExists(txtFileName: str):
+def wavExists(txtFileName: str, regen: bool):
     # e.g. "ABELA_2682_Destiny or no... I a [ABELA01].txt
     # wav already exists in game
     if txtFileName[-5] == "]":
         return True
-
+    if regen:
+        return False
     # wavs are in WAV_DIR
     number = extractNumber(txtFileName)
     wavFilepath = f"{WAV_DIR}/{number}.wav"
     return os.path.exists(wavFilepath)
 
 
-def getSoundsForCreature(creatureId: str, voice=None, limit=None):
+def getSoundsForCreature(creatureId: str, regen=False, voice=None, limit=None):
     logger.info(f"Getting sounds for creature with ID {creatureId}")
     dir = f"{TXT_DIR}/{creatureId}"
     try:
@@ -78,7 +79,7 @@ def getSoundsForCreature(creatureId: str, voice=None, limit=None):
             filenames = filenames[:limit]
 
         for filename in filenames:
-            if not filename.endswith(".txt") or wavExists(filename):
+            if not filename.endswith(".txt") or wavExists(filename, regen):
                 continue
             filepath = os.path.join(dir, filename)
 
@@ -117,6 +118,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "-c", "--creature", type=str, required=True, help="The name of the creature"
     )
+    parser.add_argument(
+        "-r", "--regenerate", action="store_true", help="To regenerate sounds"
+    )
 
     if len(sys.argv) == 1:
         parser.print_help(sys.stderr)
@@ -125,5 +129,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     creature = args.creature
+    regen = args.regenerate
 
-    getSoundsForCreature(creature)
+    getSoundsForCreature(creature, regen=regen)

@@ -167,8 +167,8 @@ def auditCreatures(limit: int):
 
                 sample = getSoundsForCreature(
                     creature_id,
-                    cur_voice,
-                    1,
+                    voice=cur_voice,
+                    limit=1,
                 )[0]
 
                 # Auto play the audio
@@ -213,7 +213,7 @@ def auditCreatures(limit: int):
         logger.info(f"Getting sounds for creature: {creature_id}")
         getSoundsForCreature(
             creature_id,
-            voice,
+            voice=voice,
         )
 
     # Store the results into a json file appended with the current timestamp
