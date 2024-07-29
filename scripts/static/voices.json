@@ -419,13 +419,19 @@
     "platform": "elevenLabs",
     "voice": "wc4MrBc4JWrRyg8WbEVP"
   },
-  "KHALIZ": {
+  "KHALIJ": {
     "locale": "american",
     "platform": "naturalReaders",
     "voice": "KHALD",
     "voice_id": "2CDdilsWsmmosiarECPZ"
   },
   "KHALIP": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "KHALD",
+    "voice_id": "2CDdilsWsmmosiarECPZ"
+  },
+  "KHALIZ": {
     "locale": "american",
     "platform": "naturalReaders",
     "voice": "KHALD",
