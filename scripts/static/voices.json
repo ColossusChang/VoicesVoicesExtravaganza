@@ -151,6 +151,11 @@
     "platform": "naturalReaders",
     "voice": "Jim"
   },
+  "APPAR": {
+    "locale": "en-US",
+    "platform": "naturalReaders",
+    "voice": "Onyx"
+  },
   "ARDENO": {
     "locale": "american",
     "platform": "naturalReaders",
