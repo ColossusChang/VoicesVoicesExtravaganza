@@ -40,6 +40,12 @@
     "platform": "naturalReaders",
     "voice": "Sam"
   },
+  "ALBERT": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "MCHIL",
+    "voice_id": "fyMhBfyWpuwgMwCeWzdR"
+  },
   "ALDETH": {
     "locale": "american",
     "platform": "naturalReaders",
@@ -166,6 +172,12 @@
     "platform": "naturalReaders",
     "voice": "Jeremy"
   },
+  "BAELOTHJ": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "BAELOTH",
+    "voice_id": "P2jhFOs9exVwy2riVsSs"
+  },
   "BANDIC": {
     "locale": "american-irish",
     "platform": "naturalReaders",
@@ -182,12 +194,6 @@
     "platform": "naturalReaders",
     "voice": "BANDT",
     "voice_id": "gJAE08WQHAEIfQc4dhOu"
-  },
-  "BAELOTHJ": {
-    "locale": "american",
-    "platform": "naturalReaders",
-    "voice": "BAELOTH",
-    "voice_id": "P2jhFOs9exVwy2riVsSs"
   },
   "BARDOL": {
     "locale": "american",
