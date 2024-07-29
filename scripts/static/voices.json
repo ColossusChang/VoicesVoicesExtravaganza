@@ -419,6 +419,12 @@
     "platform": "elevenLabs",
     "voice": "wc4MrBc4JWrRyg8WbEVP"
   },
+  "KHALIZ": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "KHALD",
+    "voice_id": "2CDdilsWsmmosiarECPZ"
+  },
   "KIVAN": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/9afab1bd-ceb1-4898-ac2e-cfbe321ce3c5/original/manifest.json"
