@@ -265,6 +265,12 @@
     "platform": "elevenLabs",
     "voice": "E95NigJoVU5BI8HjQeN3"
   },
+  "DORNJ": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "DN",
+    "voice_id": "SVnVi8dVsRYQWA2e8IU0"
+  },
   "DREPPI": {
     "platform": "elevenLabs",
     "voice": "pUT9rBL4dkCeuqxqLWVZ"
