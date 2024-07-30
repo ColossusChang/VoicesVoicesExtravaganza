@@ -271,6 +271,12 @@
     "voice": "DELAI",
     "voice_id": "hMNQYEDhUJOf79ENIMBv"
   },
+  "DELAINY2": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "DELAI",
+    "voice_id": "hMNQYEDhUJOf79ENIMBv"
+  },
   "DORNJ": {
     "locale": "american",
     "platform": "naturalReaders",
