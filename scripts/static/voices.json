@@ -265,6 +265,12 @@
     "platform": "elevenLabs",
     "voice": "E95NigJoVU5BI8HjQeN3"
   },
+  "DELAINY": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "DELAI",
+    "voice_id": "hMNQYEDhUJOf79ENIMBv"
+  },
   "DORNJ": {
     "locale": "american",
     "platform": "naturalReaders",
