@@ -321,6 +321,12 @@
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/66179136-ccc9-487a-8e76-9e80be07efac/original/manifest.json"
   },
+  "ELMIN1": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "BANDT",
+    "voice_id": "uucRCS4ULbn37F1hdCVx"
+  },
   "ENDER": {
     "locale": "american",
     "platform": "naturalReaders",
