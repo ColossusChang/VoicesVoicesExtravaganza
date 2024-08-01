@@ -9,18 +9,19 @@ from utils.logging_config import logger
 wordFixes = {
     "Gorion": "Grraion",
     "Xzar": "Zar",
-    "ye": "you",
-    "Ye": "You",
-    "ye're": "you're",
-    "Ye're": "You're",
-    "ye've": "you've",
-    "Ye've": "You've",
-    "ye'll": "you'll",
-    "Ye'll": "You'll",
-    "ye'd": "you'd",
-    "Ye'd": "You'd",
-    "te": "to",
-    "Te": "To",
+    "<MANWOMAN>": "person",
+    # "ye": "you",
+    # "Ye": "You",
+    # "ye're": "you're",
+    # "Ye're": "You're",
+    # "ye've": "you've",
+    # "Ye've": "You've",
+    # "ye'll": "you'll",
+    # "Ye'll": "You'll",
+    # "ye'd": "you'd",
+    # "Ye'd": "You'd",
+    # "te": "to",
+    # "Te": "To",
 }
 
 # These words are commonly spoken by the NPC when hostile,
@@ -33,13 +34,13 @@ hostileWords = (
 
 
 def fix_words(words: str):
+    for key, value in wordFixes.items():
+        words = re.sub(rf"{re.escape(key)}", value, words)
     words = re.sub(r"<[^>]+>, ", "", words)
     words = re.sub(r"<[^>]+>. ", "", words)
     words = re.sub(r"<[^>]+>\? ", "", words)
     words = re.sub(r"<[^>]+>! ", "", words)
     words = re.sub(r" <[^>]+>", "", words)
-    for key, value in wordFixes.items():
-        words = re.sub(rf"\b{re.escape(key)}\b", value, words)
     return words
 
 
