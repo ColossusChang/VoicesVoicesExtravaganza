@@ -356,6 +356,12 @@
     "platform": "naturalReaders",
     "voice": "Jim"
   },
+  "ENTAR": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "ENTAR",
+    "voice_id": "2lkXjsr7j84cft7TkpKg"
+  },
   "ENTILL": {
     "locale": "american",
     "platform": "naturalReaders",
