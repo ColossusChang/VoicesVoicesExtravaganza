@@ -345,6 +345,12 @@
     "voice": "ELMIN",
     "voice_id": "uucRCS4ULbn37F1hdCVx"
   },
+  "ELMINS4": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "ELMIN",
+    "voice_id": "uucRCS4ULbn37F1hdCVx"
+  },
   "ENDER": {
     "locale": "american",
     "platform": "naturalReaders",
