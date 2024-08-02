@@ -327,6 +327,12 @@
     "voice": "BANDT",
     "voice_id": "uucRCS4ULbn37F1hdCVx"
   },
+  "ELMIN2": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "BANDT",
+    "voice_id": "uucRCS4ULbn37F1hdCVx"
+  },
   "ENDER": {
     "locale": "american",
     "platform": "naturalReaders",
