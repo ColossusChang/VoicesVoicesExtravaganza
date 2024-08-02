@@ -9,6 +9,7 @@ from utils.logging_config import logger
 wordFixes = {
     "Gorion": "Go'raion",
     "Xzar": "Zar",
+    "Skie": "Ski",
     "<MANWOMAN>": "person",
     # "ye": "you",
     # "Ye": "You",
