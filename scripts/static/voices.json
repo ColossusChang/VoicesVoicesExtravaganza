@@ -236,6 +236,12 @@
     "platform": "naturalReaders",
     "voice": "Bruce"
   },
+  "CALDO": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "CALDO",
+    "voice_id": "EwmllFJugCi7RF6stwdr"
+  },
   "CAUTER": {
     "platform": "elevenLabs",
     "voice": "x0VnFp7QkseTgLdZCiiw"
