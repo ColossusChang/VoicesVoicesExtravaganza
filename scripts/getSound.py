@@ -7,7 +7,7 @@ from utils.utilities import getVoice, WAV_DIR, TXT_DIR
 from utils.logging_config import logger
 
 wordFixes = {
-    "Gorion": "Grraion",
+    "Gorion": "Go'raion",
     "Xzar": "Zar",
     "<MANWOMAN>": "person",
     # "ye": "you",
