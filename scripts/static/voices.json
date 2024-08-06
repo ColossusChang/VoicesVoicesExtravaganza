@@ -258,6 +258,12 @@
     "platform": "elevenLabs",
     "voice": "x0VnFp7QkseTgLdZCiiw"
   },
+  "CENTEO": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "CENTL",
+    "voice_id": "vqDsupgRusFDYmOlUmko"
+  },
   "CHARLE": {
     "locale": "american",
     "platform": "naturalReaders",
