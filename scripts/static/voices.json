@@ -248,6 +248,12 @@
     "voice": "CASSN",
     "voice_id": "GI9vJHtNRqDIQMQpjkeQ"
   },
+  "CATTAC": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "CATTC",
+    "voice_id": "DVdcZkQzZ6IPs7erfNvy"
+  },
   "CAUTER": {
     "platform": "elevenLabs",
     "voice": "x0VnFp7QkseTgLdZCiiw"
