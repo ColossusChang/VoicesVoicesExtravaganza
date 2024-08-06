@@ -242,6 +242,12 @@
     "voice": "CALDO",
     "voice_id": "EwmllFJugCi7RF6stwdr"
   },
+  "CASSON": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "CASSN",
+    "voice_id": "GI9vJHtNRqDIQMQpjkeQ"
+  },
   "CAUTER": {
     "platform": "elevenLabs",
     "voice": "x0VnFp7QkseTgLdZCiiw"
