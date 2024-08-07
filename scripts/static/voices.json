@@ -309,15 +309,15 @@
     "voice": "DALTON",
     "voice_id": "qhpprOMEPMDbieMQi8EW"
   },
+  "DARRYL": {
+    "platform": "elevenLabs",
+    "voice": "E95NigJoVU5BI8HjQeN3"
+  },
   "DAVAEO": {
     "locale": "american",
     "platform": "naturalReaders",
     "voice": "DAVAEO",
     "voice_id": "7M3c5FOZmxlvcXdDWX7B"
-  },
-  "DARRYL": {
-    "platform": "elevenLabs",
-    "voice": "E95NigJoVU5BI8HjQeN3"
   },
   "DELAINY": {
     "locale": "american",
@@ -336,6 +336,12 @@
     "platform": "naturalReaders",
     "voice": "DELAI",
     "voice_id": "hMNQYEDhUJOf79ENIMBv"
+  },
+  "DELORN": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "CULTI",
+    "voice_id": "HzfzsHaB8tXUKFZ0WTR4"
   },
   "DORNJ": {
     "locale": "american",
