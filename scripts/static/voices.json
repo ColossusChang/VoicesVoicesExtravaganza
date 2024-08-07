@@ -355,6 +355,12 @@
     "voice": "DN",
     "voice_id": "SVnVi8dVsRYQWA2e8IU0"
   },
+  "DRADEE2": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "DRADE",
+    "voice_id": "Pyi42GBJB8qQSRYdeq1f"
+  },
   "DREPPI": {
     "platform": "elevenLabs",
     "voice": "pUT9rBL4dkCeuqxqLWVZ"
