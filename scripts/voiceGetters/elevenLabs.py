@@ -13,8 +13,13 @@ headers = {
 }
 
 
-def getSoundForLine(words: str, number: str, voice):
+def getSoundForLine(words: str, number: str, voice, speed):
     voiceId = voice["voice"]
+
+    if speed != None:
+        logger.warning(
+            f"Speed is not supported for ElevenLabs. Ignoring speed value {speed}"
+        )
 
     url = (
         f"https://api.elevenlabs.io/v1/text-to-speech/{voiceId}?output_format=pcm_22050"

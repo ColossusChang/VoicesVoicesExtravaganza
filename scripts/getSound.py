@@ -71,7 +71,9 @@ def wavExists(txtFileName: str, regen: bool):
     return os.path.exists(wavFilepath)
 
 
-def getSoundsForCreature(creatureId: str, regen=False, voice=None, limit=None):
+def getSoundsForCreature(
+    creatureId: str, regen=False, voice=None, limit=None, speed=None
+):
     logger.info(f"Getting sounds for creature with ID {creatureId}")
     dir = f"{TXT_DIR}/{creatureId}"
     try:
@@ -105,7 +107,7 @@ def getSoundsForCreature(creatureId: str, regen=False, voice=None, limit=None):
                 # Dynamically import the module
                 module = importlib.import_module(module_path)
                 # Call the getSoundForLine function from the module
-                getattr(module, "getSoundForLine")(words, number, voice)
+                getattr(module, "getSoundForLine")(words, number, voice, speed)
         return numbers
     except ImportError:
         raise ValueError(f"Unsupported platform: {platform}")
@@ -123,7 +125,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "-r", "--regenerate", action="store_true", help="To regenerate sounds"
     )
-
+    parser.add_argument("-s", "--speed", type=int, help="The speed for the sound")
     if len(sys.argv) == 1:
         parser.print_help(sys.stderr)
         sys.exit(1)
@@ -132,5 +134,6 @@ if __name__ == "__main__":
 
     creature = args.creature
     regen = args.regenerate
+    speed = args.speed
 
-    getSoundsForCreature(creature, regen=regen)
+    getSoundsForCreature(creature, regen=regen, speed=speed)

@@ -19,18 +19,25 @@ headers = {
 }
 
 
-def getSoundForLine(words: str, number: str, voice):
+def getSoundForLine(words: str, number: str, voice, speed):
     display_name = voice["voice"]
     locale = voice["locale"]
+    params = {
+        "display_name": display_name,
+        "speed": 180 if speed is None else speed,
+        "style": "",
+        "locale": locale,
+        "model": "v2",
+    }
     # voice_id is only present if the voice is cloned
     if "voice_id" in voice:
-        url = f"https://l6m5prrx81.execute-api.us-east-1.amazonaws.com/prod220818/el/speak?display_name={display_name}&speed=175&style=&locale={locale}&model=v2&voice_id={voice['voice_id']}"
-    else:
-        url = f"https://l6m5prrx81.execute-api.us-east-1.amazonaws.com/prod220818/el/speak?display_name={display_name}&speed=175&style=&locale={locale}&model=v2"
+        params["voice_id"] = voice["voice_id"]
+
+    url = "https://l6m5prrx81.execute-api.us-east-1.amazonaws.com/prod220818/el/speak"
 
     payload = {"textArray": [words]}
 
-    response = requests.request("POST", url, json=payload, headers=headers)
+    response = requests.post(url, params=params, json=payload, headers=headers)
 
     # Check response status code
     if response.status_code != 200:

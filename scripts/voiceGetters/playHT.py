@@ -15,7 +15,7 @@ headers = {
 }
 
 
-def getSoundForLine(words: str, number: str, voice):
+def getSoundForLine(words: str, number: str, voice, speed):
     voiceId = voice["voice"]
 
     url = "https://api.play.ht/api/v2/tts"
@@ -27,7 +27,7 @@ def getSoundForLine(words: str, number: str, voice):
         "voice_engine": "PlayHT2.0",
         "sample_rate": 22000,
         "quality": "premium",
-        # "speed": 1,
+        "speed": 1 if speed is None else speed,
         # "seed": 411,
         # "emotion": "male_angry",  # male/female_happy/angry/sad/fearful/disgust/surprised
         # "voice_guidance": 3,

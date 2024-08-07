@@ -25,8 +25,12 @@ headers = {
 }
 
 
-def getSoundForLine(words: str, number: str, voice):
+def getSoundForLine(words: str, number: str, voice, speed):
     voiceId = voice["voice"]
+    if speed != None:
+        logger.warning(
+            f"Speed is not supported for Typecast. Ignoring speed value {speed}"
+        )
 
     url = f"https://typecast.ai/api/voice-cloning/{voiceId}/speak"
 
