@@ -306,8 +306,14 @@
   "DALTON": {
     "locale": "american",
     "platform": "naturalReaders",
-    "voice": "CULTI",
+    "voice": "DALTON",
     "voice_id": "qhpprOMEPMDbieMQi8EW"
+  },
+  "DAVAEO": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "DAVAEO",
+    "voice_id": "7M3c5FOZmxlvcXdDWX7B"
   },
   "DARRYL": {
     "platform": "elevenLabs",
