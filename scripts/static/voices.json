@@ -361,6 +361,12 @@
     "voice": "DRADE",
     "voice_id": "Pyi42GBJB8qQSRYdeq1f"
   },
+  "DRADEE": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "DRADE",
+    "voice_id": "Pyi42GBJB8qQSRYdeq1f"
+  },
   "DREPPI": {
     "platform": "elevenLabs",
     "voice": "pUT9rBL4dkCeuqxqLWVZ"

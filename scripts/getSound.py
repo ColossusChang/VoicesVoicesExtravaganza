@@ -11,6 +11,8 @@ wordFixes = {
     "Xzar": "Zar",
     "Skie": "Ski",
     "<MANWOMAN>": "person",
+    "Selûne": "Seluunay",
+    "Golodon": "'Go-lodon",
     # "ye": "you",
     # "Ye": "You",
     # "ye're": "you're",
