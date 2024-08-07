@@ -343,6 +343,12 @@
     "voice": "CULTI",
     "voice_id": "HzfzsHaB8tXUKFZ0WTR4"
   },
+  "DELSVIR": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "DELSV",
+    "voice_id": "AoqimmTilUON2TjpHuKd"
+  },
   "DORNJ": {
     "locale": "american",
     "platform": "naturalReaders",

@@ -1,6 +1,7 @@
 ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	// unvoiced => orig voice file
 	"12674"=>"CASSN01"
+	"21796"=>"DELSV01"
 
 	// unvoiced => voiced
 	"9314"=>"9310"
