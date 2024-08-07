@@ -291,6 +291,12 @@
     "voice": "CULTI",
     "voice_id": "GeUK4TPCMSFob4u23vNr"
   },
+  "CULT2": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "CULTI",
+    "voice_id": "GeUK4TPCMSFob4u23vNr"
+  },
   "DARRYL": {
     "platform": "elevenLabs",
     "voice": "E95NigJoVU5BI8HjQeN3"
