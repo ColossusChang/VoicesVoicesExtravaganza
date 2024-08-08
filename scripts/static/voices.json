@@ -167,6 +167,12 @@
     "platform": "naturalReaders",
     "voice": "Arayah"
   },
+  "ARGHAI": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "DROTH",
+    "voice_id": "GFd0AlT7SuSF1wYTawNT"
+  },
   "ARKION": {
     "locale": "british",
     "platform": "naturalReaders",
