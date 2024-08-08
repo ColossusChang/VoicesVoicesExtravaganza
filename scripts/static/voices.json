@@ -355,13 +355,13 @@
     "voice": "DN",
     "voice_id": "SVnVi8dVsRYQWA2e8IU0"
   },
-  "DRADEE2": {
+  "DRADEE": {
     "locale": "american",
     "platform": "naturalReaders",
     "voice": "DRADE",
     "voice_id": "Pyi42GBJB8qQSRYdeq1f"
   },
-  "DRADEE": {
+  "DRADEE2": {
     "locale": "american",
     "platform": "naturalReaders",
     "voice": "DRADE",
@@ -762,6 +762,12 @@
   "SAREVO": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/fc1fef6a-d79e-4dc4-acbc-bdc82710a0e5/original/manifest.json"
+  },
+  "SCAR": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "SCAR",
+    "voice_id": "kiPX0T1MLmWJx3DYHnNq"
   },
   "SHARTE": {
     "platform": "playHT",
