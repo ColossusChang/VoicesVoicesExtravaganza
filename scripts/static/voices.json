@@ -395,6 +395,12 @@
     "voice": "DROTH",
     "voice_id": "GFd0AlT7SuSF1wYTawNT"
   },
+  "DRYAD": {
+    "locale": "american",
+    "platform": "naturalReaders",
+    "voice": "DRYAA",
+    "voice_id": "5zIGmjYTcb6wqo1cL3f0"
+  },
   "ELDOTH": {
     "platform": "playHT",
     "voice": "s3://voice-cloning-zero-shot/66179136-ccc9-487a-8e76-9e80be07efac/original/manifest.json"

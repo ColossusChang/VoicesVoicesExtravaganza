@@ -4,6 +4,8 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY dupeTexts BEGIN
 	"21796"=>"DELSV01"
 
 	// unvoiced => voiced
+	"5040"=>"5039"
+	"5041"=>"5039"
 	"9314"=>"9310"
 	"17334"=>"2317"
 	"11861"=>"20643"
