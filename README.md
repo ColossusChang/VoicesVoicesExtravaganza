@@ -10,6 +10,8 @@
 
 Adds AI-generated English voiceovers for all characters from Baldur's Gate 1, including the base game and Tales of the Sword Coast. Does not include The Black Pits, the Tutorial, or Siege of Dragonspear.
 
+## Demo
+See a demo of this mod on [YouTube](https://youtu.be/sMJxlbwFMZ4).
 ## Compatibility
 
 This mod is designed to work with Baldur's Gate: Enhanced Edition (BGEE), or Enhanced Edition Trilogy (EET). When installing the mod on EET, you may install it before or after EET_End.
