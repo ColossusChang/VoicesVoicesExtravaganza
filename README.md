@@ -1,5 +1,7 @@
 # Voices Voices Extravaganza - Baldur's Gate
 
+### NOTE: This repo only provides release downloads. Check the [releases](https://github.com/ColossusChang/VoicesVoicesExtravaganza/releases) page to download the mod.
+
 - MOD VERSION: 1.0
 - AUTHOR: Colossus
 - GAMES: BGEE, EET, BG1+TOTSC
