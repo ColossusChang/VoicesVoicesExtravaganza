@@ -2,7 +2,7 @@
 
 ### NOTE: This repo only provides release downloads. Check the [releases](https://github.com/ColossusChang/VoicesVoicesExtravaganza/releases) page to download the mod.
 
-- MOD VERSION: 1.0
+- MOD VERSION: 1.1
 - AUTHOR: Colossus
 - GAMES: BGEE, EET, BG1+TOTSC
 
@@ -11,7 +11,8 @@
 Adds AI-generated English voiceovers for all characters from Baldur's Gate 1, including the base game and Tales of the Sword Coast. Does not include The Black Pits, the Tutorial, or Siege of Dragonspear.
 
 ## Demo
-See a demo of this mod on [YouTube](https://youtu.be/sMJxlbwFMZ4).
+Check out a demo of this mod on [YouTube](https://youtu.be/sMJxlbwFMZ4)!
+
 ## Compatibility
 
 This mod is designed to work with Baldur's Gate: Enhanced Edition (BGEE), or Enhanced Edition Trilogy (EET). When installing the mod on EET, you may install it before or after EET_End.
@@ -30,13 +31,15 @@ Compatibility with other mods is not guaranteed, but in theory it should not con
 2. Copy all contents of the compressed file to your game directory. 
 3. Run `setup-vveBG.exe` and follow the instructions.
 
-## Imperfections
+## Imperfections and known issues
 
 - Lachluger: Singing not feasible.
 - Hephis: Singing not feasible.
 - Sailor Finch: Singing not feasible.
 - Sailor Joss: Singing not feasible.
 - Sailor Ned: Not 100% accurate with the text.
+
+I do realize that there are still some unvoiced lines, especially lines of some generic characters, and the `HOSTILE` and `POST` lines of some characters. I will try to address these in future updates using the new workflow that I have been experimenting on SOD.
 
 ## Bug reports
 
@@ -59,9 +62,17 @@ By downloading and using this mod, you agree to the terms of this license.
 
 ## Acknowledgements
 
-Thanks to **GIMemo** for testing the mod in its early stage and providing feedback.
+- Thanks to Reddit user **GIMemo** for testing the mod in its early stage and providing feedback.
+- Thanks to NexusMods user **robovoiddev** for suggesting the conversion to ogg format.
+
 
 ## Version History
 
+### 1.1
+- Added a missing Sarevok line.
+- Redid Sarevok's lines at the end of the game.
+- Reduced the size of the mod around 80% of by converting all audio files to ogg format.
+
+
 ### 1.0
-Added all voices not existing in the original game.
+- Added all voices not existing in the original game.
